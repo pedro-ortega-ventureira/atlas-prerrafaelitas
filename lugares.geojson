@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "Lux in Tenebris",
+        "artist": "Evelyn De Morgan",
+        "year": "1895",
+        "image": "",
+        "description": "La figura femenina luminosa dialoga con la iconografía cristiana y las inquietudes espirituales de De Morgan. Londres se incorpora como centro de su trayectoria artística, no como lugar demostrado de ejecución de esta obra.",
+        "location_note": "Relación biográfica general con Londres; localización exacta de la obra pendiente de verificar.",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8904,
+          52.4862
+        ]
+      },
+      "properties": {
+        "title": "May Morris y Arts and Crafts",
+        "artist": "May Morris",
+        "year": "Siglos XIX–XX",
+        "image": "",
+        "description": "Birmingham fue uno de los centros del movimiento Arts and Crafts. Este punto ofrece contexto sobre la red cultural, pero todavía no atribuye a May Morris una actividad concreta en esta ubicación.",
+        "location_note": "Contexto regional, no ubicación biográfica confirmada. Pendiente de sustituir por un lugar documentado.",
+        "source": ""
+      }
+    }
+  ]
+}
