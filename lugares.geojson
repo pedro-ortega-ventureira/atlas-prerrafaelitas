@@ -11,13 +11,14 @@
         ]
       },
       "properties": {
-        "title": "Lux in Tenebris",
-        "artist": "Evelyn De Morgan",
-        "year": "1895",
-        "image": "",
-        "description": "La figura femenina luminosa dialoga con la iconografía cristiana y las inquietudes espirituales de De Morgan. Londres se incorpora como centro de su trayectoria artística, no como lugar demostrado de ejecución de esta obra.",
-        "location_note": "Relación biográfica general con Londres; localización exacta de la obra pendiente de verificar.",
-        "source": ""
+        "title": "La dama de Shalott",
+        "artist": "Elizabeth Siddal",
+        "year": "1853",
+        "description": "Siddal desarrolló buena parte de su actividad artística en Londres. Esta ilustración interpreta el poema de Tennyson: su escenario es literario, no una localización cartográfica verificable.",
+        "location_note": "Londres: relación biográfica con la artista, no lugar representado en la obra.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Siddal_-_The_Lady_of_Shalott.jpg?width=640",
+        "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Siddal_-_The_Lady_of_Shalott.jpg",
+        "place": "Londres"
       }
     },
     {
@@ -25,18 +26,159 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8904,
-          52.4862
+          -1.424,
+          55.017
         ]
       },
       "properties": {
-        "title": "May Morris y Arts and Crafts",
-        "artist": "May Morris",
-        "year": "Siglos XIX–XX",
+        "title": "Vista desde la ventana de Balcony House, Tynemouth",
+        "artist": "Alice Boyd",
+        "year": "1864",
+        "description": "El título identifica una vista desde Balcony House, en Tynemouth, localidad costera del noreste de Inglaterra. La relación entre imagen y lugar es directa.",
+        "location_note": "Tynemouth: lugar indicado por el título; el marcador señala la localidad, no la posición exacta de la ventana.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice_Boyd_-_View_from_the_window_of_Balcony_House%2C_Tynemouth.jpg?width=640",
+        "source": "https://commons.wikimedia.org/wiki/File:Alice_Boyd_-_View_from_the_window_of_Balcony_House%2C_Tynemouth.jpg",
+        "place": "Tynemouth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "La canción de la camisa",
+        "artist": "Anna Blunden",
+        "year": "1854",
+        "description": "La obra aborda la precariedad del trabajo femenino de costura. Londres funciona como contexto urbano de la trayectoria de Blunden y del debate social victoriano; no como emplazamiento demostrado de la escena.",
+        "location_note": "Londres: asociación biográfica y temática; localización de la escena no verificada.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Blunden_-_%22For_Only_One_Short_Hour%22_-_Google_Art_Project.jpg?width=640",
+        "source": "https://commons.wikimedia.org/wiki/File:Anna_Blunden_-_%22For_Only_One_Short_Hour%22_-_Google_Art_Project.jpg",
+        "place": "Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "Lux in Tenebris",
+        "artist": "Evelyn De Morgan",
+        "year": "1895",
+        "description": "La figura femenina luminosa permite explorar los intereses espirituales y alegóricos de Evelyn De Morgan. La ciudad se relaciona con su trayectoria, no con un escenario representado.",
+        "location_note": "Londres: vínculo biográfico general; lugar de ejecución pendiente de confirmar.",
         "image": "",
-        "description": "Birmingham fue uno de los centros del movimiento Arts and Crafts. Este punto ofrece contexto sobre la red cultural, pero todavía no atribuye a May Morris una actividad concreta en esta ubicación.",
-        "location_note": "Contexto regional, no ubicación biográfica confirmada. Pendiente de sustituir por un lugar documentado.",
-        "source": ""
+        "source": "",
+        "place": "Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52,
+          50.684
+        ]
+      },
+      "properties": {
+        "title": "Alethea",
+        "artist": "Julia Margaret Cameron",
+        "year": "1872",
+        "description": "Cameron desarrolló una parte fundamental de su actividad fotográfica en Freshwater, en la isla de Wight. La relación del retrato concreto con este lugar debe comprobarse documentalmente.",
+        "location_note": "Freshwater: centro de actividad de la fotógrafa; ubicación de esta toma aún por verificar.",
+        "image": "",
+        "source": "",
+        "place": "Freshwater, isla de Wight"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "El salón de Townshend House",
+        "artist": "Anna Alma-Tadema",
+        "year": "1885",
+        "description": "La acuarela representa un interior doméstico londinense. El vínculo geográfico deriva de Townshend House, aunque la dirección histórica precisa requiere confirmación.",
+        "location_note": "Londres: ubicación general del edificio representado; coordenadas exactas no verificadas.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Alma-Tadema%2C_The_Drawing_Room%2C_Townshend_House%2C_1885.jpg?width=640",
+        "source": "https://commons.wikimedia.org/wiki/File:Anna_Alma-Tadema%2C_The_Drawing_Room%2C_Townshend_House%2C_1885.jpg",
+        "place": "Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "La palidez del amor verdadero",
+        "artist": "Eleanor Fortescue-Brickdale",
+        "year": "1899",
+        "description": "La pintura remite a los lenguajes narrativos y simbólicos de la tradición prerrafaelita tardía. Londres se incorpora por la trayectoria artística de su autora, no como escenario representado.",
+        "location_note": "Londres: relación biográfica general, pendiente de documentación más precisa.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Pale_Complexion_of_True_Love_1899_sm.jpg?width=640",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Pale_Complexion_of_True_Love_1899_sm.jpg",
+        "place": "Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "La infancia de santa Cecilia",
+        "artist": "Marie Spartali Stillman",
+        "year": "1883",
+        "description": "La obra reelabora un asunto hagiográfico. El lugar representado pertenece al relato de santa Cecilia y no debe confundirse con los espacios vitales de la pintora.",
+        "location_note": "Londres: asociación biográfica provisional, no localización de la escena.",
+        "image": "",
+        "source": "",
+        "place": "Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "Santa Isabel de Hungría hilando para los pobres",
+        "artist": "Marianne Stokes",
+        "year": "1895",
+        "description": "La figura de santa Isabel permite examinar las relaciones entre iconografía religiosa, trabajo femenino y compromiso social. Hungría pertenece al asunto iconográfico, no necesariamente al lugar de realización.",
+        "location_note": "Londres: referencia provisional a la red artística británica; vínculo específico pendiente de verificar.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marianne_Stokes_St_Elizabeth_of_Hungary_Spinning_for_the_Poor.jpg?width=640",
+        "source": "https://commons.wikimedia.org/wiki/File:Marianne_Stokes_St_Elizabeth_of_Hungary_Spinning_for_the_Poor.jpg",
+        "place": "Londres"
       }
     }
   ]
