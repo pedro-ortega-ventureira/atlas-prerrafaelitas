@@ -22,11 +22,10 @@ footer{padding:8px 20px;font:12px system-ui,sans-serif}
 <script>
 const map=L.map('map',{scrollWheelZoom:false}).setView([51.3,-1.8],6);
 const basemaps={
-'Claro':L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap contributors &copy; CARTO'}),
-'Clásico':L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap contributors'}),
-'Oscuro':L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap contributors &copy; CARTO'})
+'Clásico':L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}),
+'Humanitario':L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap contributors · HOT'})
 };
-basemaps['Claro'].addTo(map);
+basemaps['Clásico'].addTo(map);
 L.control.layers(basemaps,null,{position:'topright',collapsed:true}).addTo(map);
 map.whenReady(()=>setTimeout(()=>map.invalidateSize({pan:false}),250));
 window.addEventListener('resize',()=>map.invalidateSize({pan:false}));
