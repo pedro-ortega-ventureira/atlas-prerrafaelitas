@@ -60,6 +60,26 @@
         "source": "https://www.getty.edu/art/collection/object/1043QN/",
         "reference": "https://artsandculture.google.com/asset/girl-ceylon/DQEvDa4sicJxvA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "title": "Retrato de Sir John Herschel",
+        "artist": "Julia Margaret Cameron",
+        "year": "1867",
+        "description": "Julia Margaret Cameron conoció al astrónomo John Herschel durante su estancia en Sudáfrica en 1836, mucho antes de iniciarse en la fotografía. Décadas después realizó su célebre retrato. Ciudad del Cabo señala el origen de su relación personal, no el lugar donde se tomó la fotografía.",
+        "location_note": "Ciudad del Cabo, Sudáfrica: encuentro biográfico relacionado directamente con el retratado. El retrato fue realizado posteriormente en Inglaterra, no en África.",
+        "image": "",
+        "source": "",
+        "reference": "https://www.vam.ac.uk/articles/julia-margaret-cameron"
+      }
     }
   ]
 }
