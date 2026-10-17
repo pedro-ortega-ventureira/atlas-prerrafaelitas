@@ -61,10 +61,11 @@
         "description": "Retrato realizado durante la etapa de Cameron en Ceilán, actual Sri Lanka. El J. Paul Getty Museum documenta Ceilán como lugar de creación. La fotógrafa vivió en Kalutara; no se conoce la ubicación exacta de esta toma.",
         "location_note": "Kalutara, Sri Lanka: referencia geográfica a la etapa de producción de la fotografía, no coordenadas comprobadas del lugar de la toma.",
         "image": "",
-        "source": "https://www.getty.edu/art/collection/object/1043QN/",
+        "source": "https://www.getty.edu/art/collection/",
         "reference": "https://artsandculture.google.com/asset/girl-ceylon/DQEvDa4sicJxvA",
         "relation_type": "creation",
-        "relation_label": "Lugar de creación"
+        "relation_label": "Lugar de creación",
+        "image_note": "Imagen disponible en la ficha del Getty; reproducción pendiente de enlazar con URL autorizada."
       }
     },
     {
@@ -82,8 +83,8 @@
         "year": "1867",
         "description": "Julia Margaret Cameron conoció al astrónomo John Herschel durante su estancia en Sudáfrica en 1836, mucho antes de iniciarse en la fotografía. Décadas después realizó su célebre retrato. Ciudad del Cabo señala el origen de su relación personal, no el lugar donde se tomó la fotografía.",
         "location_note": "Ciudad del Cabo, Sudáfrica: encuentro biográfico relacionado directamente con el retratado. El retrato fue realizado posteriormente en Inglaterra, no en África.",
-        "image": "",
-        "source": "",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Sir_John_Herschel_by_Julia_Margaret_Cameron%2C_1867.jpg?width=640",
+        "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_John_Herschel_by_Julia_Margaret_Cameron%2C_1867.jpg",
         "reference": "https://www.vam.ac.uk/articles/julia-margaret-cameron",
         "relation_type": "history",
         "relation_label": "Historia de la obra"
