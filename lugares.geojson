@@ -18,7 +18,9 @@
         "location_note": "Tynemouth: lugar indicado por el título; el marcador señala la localidad, no la posición exacta de la ventana.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice_Boyd_-_View_from_the_window_of_Balcony_House%2C_Tynemouth.jpg?width=640",
         "source": "https://commons.wikimedia.org/wiki/File:Alice_Boyd_-_View_from_the_window_of_Balcony_House%2C_Tynemouth.jpg",
-        "place": "Tynemouth"
+        "place": "Tynemouth",
+        "relation_type": "depicted",
+        "relation_label": "Lugar representado"
       }
     },
     {
@@ -38,7 +40,9 @@
         "location_note": "Londres: ubicación general del edificio representado; coordenadas exactas no verificadas.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Alma-Tadema%2C_The_Drawing_Room%2C_Townshend_House%2C_1885.jpg?width=640",
         "source": "https://commons.wikimedia.org/wiki/File:Anna_Alma-Tadema%2C_The_Drawing_Room%2C_Townshend_House%2C_1885.jpg",
-        "place": "Londres"
+        "place": "Londres",
+        "relation_type": "depicted",
+        "relation_label": "Lugar representado"
       }
     },
     {
@@ -58,7 +62,9 @@
         "location_note": "Kalutara, Sri Lanka: referencia geográfica a la etapa de producción de la fotografía, no coordenadas comprobadas del lugar de la toma.",
         "image": "",
         "source": "https://www.getty.edu/art/collection/object/1043QN/",
-        "reference": "https://artsandculture.google.com/asset/girl-ceylon/DQEvDa4sicJxvA"
+        "reference": "https://artsandculture.google.com/asset/girl-ceylon/DQEvDa4sicJxvA",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
       }
     },
     {
@@ -78,7 +84,9 @@
         "location_note": "Ciudad del Cabo, Sudáfrica: encuentro biográfico relacionado directamente con el retratado. El retrato fue realizado posteriormente en Inglaterra, no en África.",
         "image": "",
         "source": "",
-        "reference": "https://www.vam.ac.uk/articles/julia-margaret-cameron"
+        "reference": "https://www.vam.ac.uk/articles/julia-margaret-cameron",
+        "relation_type": "history",
+        "relation_label": "Historia de la obra"
       }
     }
   ]
