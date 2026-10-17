@@ -19,7 +19,7 @@ header{padding:16px 22px;border-bottom:1px solid #d8cbb9}h1{font-size:clamp(20px
 @media(max-width:600px){header{padding:10px 14px}#map{height:calc(100dvh - 135px)}}
 </style></head><body>
 <header><h1>Atlas de las mujeres prerrafaelitas</h1><p>Itinerarios artísticos y geografías de la creación · Un mapa complementario al ensayo para Jot Down</p></header>
-<div class="legend" aria-label="Leyenda del mapa"><strong>Leyenda</strong><span><i style="background:#347a67"></i>Lugar de creación</span><span><i style="background:#a46c37"></i>Lugar representado</span><span><i style="background:#6b5a98"></i>Historia de la obra</span></div>
+<div class="legend" aria-label="Leyenda del mapa"><strong>Leyenda</strong><span><i style="background:#347a67"></i>Lugar de creación</span><span><i style="background:#a46c37"></i>Lugar representado</span><span><i style="background:#6b5a98"></i>Historia de la obra</span><span><i style="background:#376b9b"></i>Trayectoria de la artista</span></div>
 <div id="map" role="application" aria-label="Mapa interactivo de las artistas prerrafaelitas"></div>
 <footer>Los marcadores señalan relaciones geográficas, no necesariamente el lugar donde se ejecutó la obra. Las ubicaciones se documentan individualmente.</footer>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -42,7 +42,7 @@ for(const f of data.features||[]){const key=f.geometry.coordinates.join(',');if(
 const layer=L.layerGroup().addTo(map);
 for(const works of grouped.values()){
 const coords=works[0].geometry.coordinates;
-const palette={creation:'#347a67',depicted:'#a46c37',history:'#6b5a98'};const kind=works[0].properties.relation_type||'history';const marker=L.circleMarker([coords[1],coords[0]],{radius:works.length>1?12:8,color:'#ffffff',weight:2,fillColor:palette[kind],fillOpacity:.96}).addTo(layer);
+const palette={creation:'#347a67',depicted:'#a46c37',history:'#6b5a98',artist:'#376b9b'};const kind=works[0].properties.relation_type||'history';const marker=L.circleMarker([coords[1],coords[0]],{radius:works.length>1?12:8,color:'#ffffff',weight:2,fillColor:palette[kind]||palette.history,fillOpacity:.96}).addTo(layer);
 const cards=works.map(f=>{const p=f.properties||{};
 const image=p.image?'<a href="'+safe(p.source||p.image)+'" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="'+safe(p.image)+'" alt="Reproducción de '+safe(p.title)+'" onerror="this.style.display=\'none\'"></a>':'<p class="meta">Imagen pendiente de verificar. Consulte la ficha de la obra.</p>';
 const link=p.source?'<p class="credit"><a href="'+safe(p.source)+'" target="_blank" rel="noopener noreferrer">Consultar ficha de la obra ↗</a></p>':'';
