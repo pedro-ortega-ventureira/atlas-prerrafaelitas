@@ -221,6 +221,182 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1918,
+          55.9573
+        ]
+      },
+      "properties": {
+        "place": "Edimburgo — Mansfield Traquair Centre",
+        "title": "Ciclo mural de Mansfield Place",
+        "artist": "Phoebe Anna Traquair",
+        "year": "1893–1901",
+        "description": "Murales ejecutados para la antigua Catholic Apostolic Church de Mansfield Place, hoy Mansfield Traquair Centre.",
+        "location_note": "Edimburgo — Mansfield Traquair Centre: coordenadas orientativas; consultar la fuente para precisar la sede histórica.",
+        "image": "",
+        "source": "https://mansfieldtraquair.org.uk/the-murals/",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2173,
+          55.9491
+        ]
+      },
+      "properties": {
+        "place": "Edimburgo — Song School de St Mary",
+        "title": "Murales de la Song School de St Mary's Cathedral",
+        "artist": "Phoebe Anna Traquair",
+        "year": "1888–1892",
+        "description": "Decoración mural de la escuela de canto de la catedral episcopal de St Mary, realizada por Traquair.",
+        "location_note": "Edimburgo — Song School de St Mary: coordenadas orientativas; consultar la fuente para precisar la sede histórica.",
+        "image": "",
+        "source": "https://mansfieldtraquair.org.uk/the-murals/other-works-in-edinburgh/",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1995,
+          55.9441
+        ]
+      },
+      "properties": {
+        "place": "Edimburgo — Lauriston Lane",
+        "title": "Murales de la capilla mortuoria del Royal Hospital for Sick Children",
+        "artist": "Phoebe Anna Traquair",
+        "year": "1885–1886",
+        "description": "Primer encargo mural profesional de Traquair, realizado en la capilla mortuoria del antiguo hospital infantil de Lauriston Lane; algunos fragmentos fueron trasladados.",
+        "location_note": "Edimburgo — Lauriston Lane: coordenadas orientativas; consultar la fuente para precisar la sede histórica.",
+        "image": "",
+        "source": "https://www.nationalgalleries.org/art-and-artists/5522",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.168,
+          51.477
+        ]
+      },
+      "properties": {
+        "place": "Londres — Battersea",
+        "title": "The Shrubbery, taller y residencia artística",
+        "artist": "Marie Spartali Stillman",
+        "year": "1864–1885",
+        "description": "The Shrubbery fue su residencia familiar y una base de trabajo donde pintó y preparó obras para su exhibición.",
+        "location_note": "Londres — Battersea: coordenadas orientativas; consultar la fuente para precisar la sede histórica.",
+        "image": "",
+        "source": "https://www.english-heritage.org.uk/visit/blue-plaques/marie-spartali-stillman/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2558,
+          43.7696
+        ]
+      },
+      "properties": {
+        "place": "Florencia",
+        "title": "Estudio de Marie Spartali Stillman en Florencia",
+        "artist": "Marie Spartali Stillman",
+        "year": "1878–1883",
+        "description": "Durante la estancia familiar en Florencia, Spartali Stillman mantuvo un estudio próximo a su vivienda y trabajó dentro de la comunidad artística angloamericana.",
+        "location_note": "Florencia: coordenadas orientativas; consultar la fuente para precisar la sede histórica.",
+        "image": "",
+        "source": "https://www.english-heritage.org.uk/visit/blue-plaques/marie-spartali-stillman/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place": "París",
+        "title": "Exposición Universal de París",
+        "artist": "Marie Spartali Stillman",
+        "year": "1878",
+        "description": "Spartali Stillman representó a Gran Bretaña en la Exposición Universal de París de 1878.",
+        "location_note": "París: coordenadas orientativas; consultar la fuente para precisar la sede histórica.",
+        "image": "",
+        "source": "https://www.english-heritage.org.uk/visit/blue-plaques/marie-spartali-stillman/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9833,
+          53.4084
+        ]
+      },
+      "properties": {
+        "place": "Liverpool",
+        "title": "Exposiciones de Marie Spartali Stillman en Liverpool",
+        "artist": "Marie Spartali Stillman",
+        "year": "Siglo XIX",
+        "description": "English Heritage documenta que la artista expuso en galerías de Liverpool, sin precisar aquí una obra o sede concreta.",
+        "location_note": "Liverpool: coordenadas orientativas; consultar la fuente para precisar la sede histórica.",
+        "image": "",
+        "source": "https://www.english-heritage.org.uk/visit/blue-plaques/marie-spartali-stillman/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2426,
+          53.4808
+        ]
+      },
+      "properties": {
+        "place": "Manchester",
+        "title": "Exposiciones de Marie Spartali Stillman en Manchester",
+        "artist": "Marie Spartali Stillman",
+        "year": "Siglo XIX",
+        "description": "English Heritage documenta exposiciones de Spartali Stillman en galerías de Manchester; la ubicación es la ciudad, no una sala identificada.",
+        "location_note": "Manchester: coordenadas orientativas; consultar la fuente para precisar la sede histórica.",
+        "image": "",
+        "source": "https://www.english-heritage.org.uk/visit/blue-plaques/marie-spartali-stillman/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
     }
   ]
 }
