@@ -397,6 +397,270 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1782,
+          51.4864
+        ]
+      },
+      "properties": {
+        "place": "Chelsea, Londres — Edith Grove",
+        "title": "Estudio de Evelyn De Morgan en 17a Edith Grove",
+        "artist": "Evelyn De Morgan",
+        "year": "c. 1880–1910",
+        "description": "La De Morgan Foundation identifica su estudio en 17a Edith Grove, donde desarrolló su pintura simbolista.",
+        "location_note": "Chelsea, Londres — Edith Grove: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/event/virtual-tour-of-a-family-of-artists-exhibition-at-cannon-hall/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.177,
+          51.483
+        ]
+      },
+      "properties": {
+        "place": "Chelsea, Londres — Old Church Street",
+        "title": "Casa de Evelyn y William De Morgan, 127 Old Church Street",
+        "artist": "Evelyn De Morgan",
+        "year": "1910–1919",
+        "description": "Domicilio final de los De Morgan, documentado por una placa de English Heritage.",
+        "location_note": "Chelsea, Londres — Old Church Street: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.english-heritage.org.uk/visit/blue-plaques/evelyn-de-morgan/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.134,
+          51.524
+        ]
+      },
+      "properties": {
+        "place": "Londres — Bloomsbury",
+        "title": "Formación de Evelyn De Morgan en la Slade School of Fine Art",
+        "artist": "Evelyn De Morgan",
+        "year": "1873–1875",
+        "description": "Estudió en la Slade School de University College London, una de las primeras instituciones británicas que admitían mujeres en clases de dibujo del natural.",
+        "location_note": "Londres — Bloomsbury: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/discover/the-de-morgans/evelyn-de-morgan/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2558,
+          43.7696
+        ]
+      },
+      "properties": {
+        "place": "Florencia — Evelyn De Morgan",
+        "title": "Flora (1894): pintura realizada en Florencia",
+        "artist": "Evelyn De Morgan",
+        "year": "1894",
+        "description": "La De Morgan Foundation confirma expresamente que Flora se pintó íntegramente en Florencia. No se atribuye aquí la misma localización a Lux in Tenebris.",
+        "location_note": "Florencia — Evelyn De Morgan: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/collection/flora/",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.575,
+          53.564
+        ]
+      },
+      "properties": {
+        "place": "Cawthorne — All Saints Church",
+        "title": "Cuatro paneles de ángeles para All Saints Church",
+        "artist": "Evelyn De Morgan",
+        "year": "1883",
+        "description": "Cuatro paneles de ángeles asociados a los evangelistas, instalados en la iglesia en la Navidad de 1883.",
+        "location_note": "Cawthorne — All Saints Church: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/evelyn-de-morgans-angel-panels-all-saints-church-cawthorne/",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.581,
+          53.571
+        ]
+      },
+      "properties": {
+        "place": "Cawthorne — Cannon Hall",
+        "title": "Cannon Hall y el legado de Evelyn De Morgan",
+        "artist": "Evelyn De Morgan",
+        "year": "Siglo XIX–actualidad",
+        "description": "Casa de sus antepasados, lugar de trabajo durante el encargo de Cawthorne y sede actual de parte de la colección De Morgan.",
+        "location_note": "Cawthorne — Cannon Hall: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/exhibitions/exhibitions-2/de-morgan-museum-cannon-hall/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.196,
+          52.588
+        ]
+      },
+      "properties": {
+        "place": "Wolverhampton — Wightwick Manor",
+        "title": "Obras de Evelyn De Morgan en Wightwick Manor",
+        "artist": "Evelyn De Morgan",
+        "year": "Colección actual",
+        "description": "La Malthouse Gallery conserva y expone pinturas de Evelyn De Morgan, junto con cerámicas de William De Morgan.",
+        "location_note": "Wolverhampton — Wightwick Manor: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/exhibitions/exhibitions-2/wightwick-manor/",
+        "relation_type": "history",
+        "relation_label": "Historia de la obra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.63,
+          51.223
+        ]
+      },
+      "properties": {
+        "place": "Compton, Surrey — Watts Gallery",
+        "title": "Obras de Evelyn De Morgan en Watts Gallery",
+        "artist": "Evelyn De Morgan",
+        "year": "Colección actual",
+        "description": "Watts Gallery presenta obras de la De Morgan Collection; Evelyn también visitaba el hogar de Mary y George Watts.",
+        "location_note": "Compton, Surrey — Watts Gallery: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/exhibitions/exhibitions-2/watts-gallery-artists-village/",
+        "relation_type": "history",
+        "relation_label": "Historia de la obra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.508,
+          50.682
+        ]
+      },
+      "properties": {
+        "place": "Freshwater Bay — Dimbola",
+        "title": "Dimbola, estudio fotográfico de Julia Margaret Cameron",
+        "artist": "Julia Margaret Cameron",
+        "year": "1860–1875",
+        "description": "Casa y lugar de trabajo de Cameron en la isla de Wight; convirtió una dependencia en estudio fotográfico.",
+        "location_note": "Freshwater Bay — Dimbola: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://dimbola.co.uk/about/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.179,
+          51.558
+        ]
+      },
+      "properties": {
+        "place": "Hampstead — Frognal",
+        "title": "Casa y estudio de Kate Greenaway, 39 Frognal",
+        "artist": "Kate Greenaway",
+        "year": "1885–1901",
+        "description": "Casa diseñada para Greenaway por Norman Shaw, con un gran estudio donde trabajó en sus ilustraciones.",
+        "location_note": "Hampstead — Frognal: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.english-heritage.org.uk/visit/blue-plaques/kate-greenaway",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.636,
+          51.688
+        ]
+      },
+      "properties": {
+        "place": "Kelmscott Manor, Oxfordshire",
+        "title": "The Homestead and the Forest: colcha diseñada por May Morris",
+        "artist": "May Morris",
+        "year": "1900",
+        "description": "Colcha diseñada por May Morris y bordada por Jane Morris, cuyo motivo central representa Kelmscott Manor y sus jardines.",
+        "location_note": "Kelmscott Manor, Oxfordshire: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://kelmscottmanor.org.uk/wp-content/uploads/2024/01/Slow-looking-web-version.pdf",
+        "relation_type": "depicted",
+        "relation_label": "Lugar representado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.629,
+          51.219
+        ]
+      },
+      "properties": {
+        "place": "Compton, Surrey — Watts Chapel",
+        "title": "Watts Cemetery Chapel, proyecto de Mary Watts",
+        "artist": "Mary Seton Watts",
+        "year": "1895–1898",
+        "description": "Capilla diseñada y decorada bajo la dirección artística de Mary Watts con la colaboración de la comunidad de Compton.",
+        "location_note": "Compton, Surrey — Watts Chapel: coordenadas orientativas; ubicación histórica y relación descritas en la fuente enlazada.",
+        "image": "",
+        "source": "https://www.wattsgallery.org.uk/collections/mary-watts",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
+      }
     }
   ]
 }
