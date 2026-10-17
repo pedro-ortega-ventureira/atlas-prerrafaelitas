@@ -111,6 +111,116 @@
         "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_John_Herschel_by_Julia_Margaret_Cameron%2C_1867.jpg",
         "reference": "https://www.npg.org.uk/collections/search/person/mp02159/sir-john-frederick-william-herschel"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1636,
+          39.9526
+        ]
+      },
+      "properties": {
+        "place": "Filadelfia",
+        "title": "Exposición del Centenario de Filadelfia (1876)",
+        "artist": "Marie Spartali Stillman",
+        "year": "1876",
+        "description": "Marie Spartali Stillman participó con su obra en la Exposición del Centenario de Filadelfia de 1876.",
+        "location_note": "Filadelfia: lugar vinculado a la trayectoria expositiva de la artista; marcador aproximado de la ciudad, no del edificio.",
+        "image": "",
+        "source": "https://en.wikipedia.org/wiki/Marie_Spartali_Stillman",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "place": "Chicago",
+        "title": "Exposición Universal de Chicago (1893)",
+        "artist": "Marie Spartali Stillman",
+        "year": "1893",
+        "description": "Marie Spartali Stillman expuso en el Palacio de Bellas Artes de la World's Columbian Exposition de 1893.",
+        "location_note": "Chicago: lugar vinculado a la trayectoria expositiva de la artista; marcador aproximado de la ciudad, no del edificio.",
+        "image": "",
+        "source": "https://en.wikipedia.org/wiki/Marie_Spartali_Stillman",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0589,
+          42.3601
+        ]
+      },
+      "properties": {
+        "place": "Boston",
+        "title": "Exposición individual en Boston (1903)",
+        "artist": "Marie Spartali Stillman",
+        "year": "1903",
+        "description": "La trayectoria expositiva de Marie Spartali Stillman incluye exposiciones individuales en Boston en 1903.",
+        "location_note": "Boston: lugar vinculado a la trayectoria expositiva de la artista; marcador aproximado de la ciudad, no del edificio.",
+        "image": "",
+        "source": "https://victorianweb.org/painting/stillman/index.html",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "place": "Nueva York",
+        "title": "Exposición individual en Nueva York (1908)",
+        "artist": "Marie Spartali Stillman",
+        "year": "1908",
+        "description": "Marie Spartali Stillman presentó una exposición individual en Nueva York en 1908; también visitó la ciudad en 1871.",
+        "location_note": "Nueva York: lugar vinculado a la trayectoria expositiva de la artista; marcador aproximado de la ciudad, no del edificio.",
+        "image": "",
+        "source": "https://victorianweb.org/painting/stillman/index.html",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5466,
+          39.7447
+        ]
+      },
+      "properties": {
+        "place": "Wilmington, Delaware",
+        "title": "Retrospectiva de Marie Spartali Stillman (2015–2016)",
+        "artist": "Marie Spartali Stillman",
+        "year": "2015–2016",
+        "description": "El Delaware Art Museum organizó la retrospectiva Poetry in Beauty: The Pre-Raphaelite Art of Marie Spartali Stillman. Relación museística posterior a la vida de la artista.",
+        "location_note": "Wilmington, Delaware: lugar vinculado a la trayectoria expositiva de la artista; marcador aproximado de la ciudad, no del edificio.",
+        "image": "",
+        "source": "https://emuseum.delart.org/people/1102/marie-spartali-stillman",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
     }
   ]
 }
