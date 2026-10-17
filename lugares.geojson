@@ -22,17 +22,7 @@
         "relation_type": "depicted",
         "relation_label": "Lugar representado",
         "artwork_title": "View from the Window of Balcony House, Tynemouth (1864)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Vista desde la ventana de Balcony House",
-            "year": "1864",
-            "press_number": "02",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-02.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-02.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -56,17 +46,7 @@
         "relation_type": "depicted",
         "relation_label": "Lugar representado",
         "artwork_title": "The Drawing Room, Townshend House (1885)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "El salón, Townshend House",
-            "year": "1885",
-            "press_number": "17",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-17.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-17.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -91,17 +71,7 @@
         "relation_label": "Lugar de creación",
         "image_note": "No se ha localizado todavía una URL directa de reproducción fiable.",
         "artwork_title": "Girl, Ceylon (c. 1875–1879)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Alethea",
-            "year": "1872",
-            "press_number": "10",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -125,17 +95,7 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "Sir John Herschel (1867)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Alethea",
-            "year": "1872",
-            "press_number": "10",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -159,17 +119,7 @@
         "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_John_Herschel_by_Julia_Margaret_Cameron%2C_1867.jpg",
         "reference": "https://www.npg.org.uk/collections/search/person/mp02159/sir-john-frederick-william-herschel",
         "artwork_title": "Sir John Herschel (1867)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Alethea",
-            "year": "1872",
-            "press_number": "10",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -193,29 +143,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -239,29 +167,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -285,29 +191,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -331,29 +215,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -377,29 +239,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa; no se ha comprobado que formara parte de la retrospectiva",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa; no se ha comprobado que formara parte de la retrospectiva"
       }
     },
     {
@@ -423,17 +263,7 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Murales de Mansfield Place (1893–1901)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "El testamento del amor",
-            "year": "1898",
-            "press_number": "23",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -457,17 +287,7 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Murales de la Song School (1888–1892)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "El testamento del amor",
-            "year": "1898",
-            "press_number": "23",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -491,17 +311,7 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Murales de la capilla del Royal Hospital for Sick Children (1885–1886)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "El testamento del amor",
-            "year": "1898",
-            "press_number": "23",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -525,29 +335,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -571,29 +359,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -617,29 +383,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -663,29 +407,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -709,29 +431,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Beatriz",
-            "year": "1896",
-            "press_number": "11",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg"
-          },
-          {
-            "title": "La infancia de santa Cecilia",
-            "year": "1883",
-            "press_number": "12",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg"
-          },
-          {
-            "title": "Santa Bárbara",
-            "year": "c. 1875–1880",
-            "press_number": "20",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -755,17 +455,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -789,17 +479,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -823,17 +503,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -857,17 +527,7 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Flora (1894)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -891,17 +551,7 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Paneles de ángeles de All Saints Church (1883)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -925,17 +575,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa; no se ha comprobado que formara parte de esta colección",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa; no se ha comprobado que formara parte de esta colección"
       }
     },
     {
@@ -959,17 +599,7 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "The Garden of Opportunity (1892)",
-        "artwork_relation": "Obra vinculada a la colección; verificar presencia actual",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada a la colección; verificar presencia actual"
       }
     },
     {
@@ -993,17 +623,7 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "Flora (1894)",
-        "artwork_relation": "Obra representativa; no se ha comprobado su presencia en la sede",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa; no se ha comprobado su presencia en la sede"
       }
     },
     {
@@ -1027,17 +647,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Kiss of Peace (1869)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Alethea",
-            "year": "1872",
-            "press_number": "10",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -1061,17 +671,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Under the Window (1879)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Señoritas",
-            "year": "1879",
-            "press_number": "14",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-14.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-14.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -1095,17 +695,7 @@
         "relation_type": "depicted",
         "relation_label": "Lugar representado",
         "artwork_title": "The Homestead and the Forest (c. 1900)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Colgaduras de cama",
-            "year": "antes de 1917",
-            "press_number": "16",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-16.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-16.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -1153,17 +743,7 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Decoración mural de Red House (c. 1860–1864)",
-        "artwork_relation": "Obra o conjunto relacionado con este lugar",
-        "mapfre_works": [
-          {
-            "title": "La dama de Shalott",
-            "year": "1853",
-            "press_number": "05",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-05.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-05.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra o conjunto relacionado con este lugar"
       }
     },
     {
@@ -1187,17 +767,7 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "The Haunted Wood (1856)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "La dama de Shalott",
-            "year": "1853",
-            "press_number": "05",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-05.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-05.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -1221,17 +791,7 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "Sister Helen (1860)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "La dama de Shalott",
-            "year": "1853",
-            "press_number": "05",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-05.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-05.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -1255,17 +815,7 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "The Garden of Opportunity (1892)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -1289,17 +839,7 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "The Garden of Opportunity (1892)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -1323,23 +863,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Passing Train (1890)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Santa Isabel de Hungría, hilando lana para los pobres",
-            "year": "1895",
-            "press_number": "22",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg"
-          },
-          {
-            "title": "Ehret die Frauen",
-            "year": "1912",
-            "press_number": "25",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-25.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -1363,23 +887,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Passing Train (1890)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Santa Isabel de Hungría, hilando lana para los pobres",
-            "year": "1895",
-            "press_number": "22",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg"
-          },
-          {
-            "title": "Ehret die Frauen",
-            "year": "1912",
-            "press_number": "25",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-25.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -1403,23 +911,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Passing Train (1890)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
-        "mapfre_works": [
-          {
-            "title": "Santa Isabel de Hungría, hilando lana para los pobres",
-            "year": "1895",
-            "press_number": "22",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg"
-          },
-          {
-            "title": "Ehret die Frauen",
-            "year": "1912",
-            "press_number": "25",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-25.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
       }
     },
     {
@@ -1443,23 +935,7 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "Lantern Light (1888)",
-        "artwork_relation": "Obra vinculada directamente al lugar",
-        "mapfre_works": [
-          {
-            "title": "Santa Isabel de Hungría, hilando lana para los pobres",
-            "year": "1895",
-            "press_number": "22",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg"
-          },
-          {
-            "title": "Ehret die Frauen",
-            "year": "1912",
-            "press_number": "25",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-25.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra vinculada directamente al lugar"
       }
     },
     {
@@ -1483,17 +959,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Storm Spirits; Earthbound; Blindness and Cupidity Chasing Joy from the City; Port After Stormy Seas",
-        "artwork_relation": "Obra o conjunto relacionado con este lugar",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra o conjunto relacionado con este lugar"
       }
     },
     {
@@ -1517,17 +983,7 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa; no está comprobado que se realizara en este estudio",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa; no está comprobado que se realizara en este estudio"
       }
     },
     {
@@ -1551,17 +1007,682 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa; no está comprobado que figurara en esta exposición",
-        "mapfre_works": [
-          {
-            "title": "Lux in Tenebris",
-            "year": "1895",
-            "press_number": "24",
-            "image_url": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg"
-          }
-        ],
-        "mapfre_preview": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
-        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
+        "artwork_relation": "Obra representativa; no está comprobado que figurara en esta exposición"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9707,
+          56.462
+        ]
+      },
+      "properties": {
+        "place": "Dundee — University of Dundee Museums",
+        "title": "Dulces sueños",
+        "artist": "Emma Sandys",
+        "year": "1876",
+        "description": "Óleo sobre lienzo, 44 × 32 cm. University of Dundee Museums, DUNUC ARTS:132.",
+        "location_note": "Dundee — University of Dundee Museums",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Dulces sueños (1876)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-01.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-01.jpg",
+        "mapfre_press_number": "01",
+        "mapfre_feature": true,
+        "mapfre_credit": "University of Dundee Museums · DUNUC ARTS:132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.424,
+          55.017
+        ]
+      },
+      "properties": {
+        "place": "Tynemouth",
+        "title": "Vista desde la ventana de Balcony House",
+        "artist": "Alice Boyd",
+        "year": "1864",
+        "description": "Óleo sobre tabla, 25,4 × 35,5 cm. El título identifica directamente Balcony House, Tynemouth.",
+        "location_note": "Tynemouth",
+        "relation_type": "depicted",
+        "relation_label": "Lugar representado",
+        "artwork_title": "Vista desde la ventana de Balcony House (1864)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-02.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-02.jpg",
+        "mapfre_press_number": "02",
+        "mapfre_feature": true,
+        "mapfre_credit": "Colección particular, cortesía de Christie’s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9279,
+          41.3083
+        ]
+      },
+      "properties": {
+        "place": "New Haven — Yale Center for British Art",
+        "title": "La canción de la camisa",
+        "artist": "Anna Blunden",
+        "year": "1854",
+        "description": "Óleo sobre lienzo, 47 × 39,4 cm. Conservada en el Yale Center for British Art.",
+        "location_note": "New Haven — Yale Center for British Art",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "La canción de la camisa (1854)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-03.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-03.jpg",
+        "mapfre_press_number": "03",
+        "mapfre_feature": true,
+        "mapfre_credit": "Yale Center for British Art · Paul Mellon Fund · B1993.23 · © Yale Center for British Art"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "place": "Londres — The College of Psychic Studies",
+        "title": "Sin título",
+        "artist": "Anna Mary Howitt",
+        "year": "c. 1856–1872",
+        "description": "Gouache, lápiz y tinta sobre papel, 26 × 21 cm. Conservada en The College of Psychic Studies, Londres.",
+        "location_note": "Londres — The College of Psychic Studies",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Sin título (c. 1856–1872)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-04.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-04.jpg",
+        "mapfre_press_number": "04",
+        "mapfre_feature": true,
+        "mapfre_credit": "The College of Psychic Studies, Londres · CPS/A/AM-Howitt-Watts/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "place": "Londres — The Maas Gallery",
+        "title": "La dama de Shalott",
+        "artist": "Elizabeth Siddal",
+        "year": "1853",
+        "description": "Pluma, tinta y lápiz sobre papel, 16,5 × 22,3 cm. Conservada en The Maas Gallery, Londres.",
+        "location_note": "Londres — The Maas Gallery",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "La dama de Shalott (1853)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-05.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-05.jpg",
+        "mapfre_press_number": "05",
+        "mapfre_feature": true,
+        "mapfre_credit": "The Maas Gallery, Londres · © The Maas Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "place": "Madrid — Fundación MAPFRE",
+        "title": "El Gótico de Dios",
+        "artist": "Anna Blunden",
+        "year": "c. 1858",
+        "description": "Óleo sobre lienzo, 43 × 53,6 cm. La colección Benjamin Kracauer no aporta ciudad en el dossier; se geolocaliza en la sede de la exposición actual.",
+        "location_note": "Madrid — Fundación MAPFRE",
+        "relation_type": "history",
+        "relation_label": "Exposición actual",
+        "artwork_title": "El Gótico de Dios (c. 1858)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-06.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-06.jpg",
+        "mapfre_press_number": "06",
+        "mapfre_feature": true,
+        "mapfre_credit": "Colección Benjamin Kracauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4701,
+          53.3811
+        ]
+      },
+      "properties": {
+        "place": "Sheffield — Guild of St George / Sheffield Museums",
+        "title": "Estudio de hojas y bayas",
+        "artist": "Charlotte Murray",
+        "year": "1880",
+        "description": "Acuarela y gouache sobre papel, 23,2 × 15,5 cm. Colección del Guild of St George, Sheffield Museums Trust.",
+        "location_note": "Sheffield — Guild of St George / Sheffield Museums",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Estudio de hojas y bayas (1880)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-07.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-07.jpg",
+        "mapfre_press_number": "07",
+        "mapfre_feature": true,
+        "mapfre_credit": "Guild of St George, Sheffield Museums Trust · CGSG01192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "place": "Londres — The Maas Gallery",
+        "title": "La celosa Jessie",
+        "artist": "Emily Hunt",
+        "year": "1861",
+        "description": "Acuarela con lápiz y gouache sobre papel, 25,5 × 35,5 cm. Conservada en The Maas Gallery, Londres.",
+        "location_note": "Londres — The Maas Gallery",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "La celosa Jessie (1861)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-08.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-08.jpg",
+        "mapfre_press_number": "08",
+        "mapfre_feature": true,
+        "mapfre_credit": "The Maas Gallery, Londres · © The Maas Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "place": "Madrid — Fundación MAPFRE",
+        "title": "El pajar",
+        "artist": "Rosa Brett",
+        "year": "1858",
+        "description": "Óleo sobre lienzo, 26,5 × 34,7 cm. El dossier solo indica colección particular; se geolocaliza en la sede de la exposición actual.",
+        "location_note": "Madrid — Fundación MAPFRE",
+        "relation_type": "history",
+        "relation_label": "Exposición actual",
+        "artwork_title": "El pajar (1858)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-09.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-09.jpg",
+        "mapfre_press_number": "09",
+        "mapfre_feature": true,
+        "mapfre_credit": "Colección particular"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1722,
+          51.4966
+        ]
+      },
+      "properties": {
+        "place": "Londres — Victoria and Albert Museum",
+        "title": "Alethea",
+        "artist": "Julia Margaret Cameron",
+        "year": "1872",
+        "description": "Copia al carbón a partir de un negativo de reproducción, 43 × 34,2 cm. Colección de la Royal Photographic Society en el V&A.",
+        "location_note": "Londres — Victoria and Albert Museum",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Alethea (1872)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-10.jpg",
+        "mapfre_press_number": "10",
+        "mapfre_feature": true,
+        "mapfre_credit": "Victoria and Albert Museum, Londres · RPS.719-2017 · © Victoria and Albert Museum, London"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5466,
+          39.7447
+        ]
+      },
+      "properties": {
+        "place": "Wilmington — Delaware Art Museum",
+        "title": "Beatriz",
+        "artist": "Marie Spartali Stillman",
+        "year": "1896",
+        "description": "Acuarela y gouache sobre papel montado sobre tabla, 57,6 × 43,2 cm. Conservada en el Delaware Art Museum.",
+        "location_note": "Wilmington — Delaware Art Museum",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Beatriz (1896)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-11.jpg",
+        "mapfre_press_number": "11",
+        "mapfre_feature": true,
+        "mapfre_credit": "Delaware Art Museum · Donación de la esposa de Walter Reinsel, 1971 · 1971-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1281,
+          51.509
+        ]
+      },
+      "properties": {
+        "place": "Londres — National Portrait Gallery",
+        "title": "Autorretrato",
+        "artist": "Mary Severn",
+        "year": "c. 1862",
+        "description": "Óleo sobre lienzo, 61 × 52,1 cm. Conservado en la National Portrait Gallery, Londres.",
+        "location_note": "Londres — National Portrait Gallery",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Autorretrato (c. 1862)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-12.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-12.jpg",
+        "mapfre_press_number": "12",
+        "mapfre_feature": true,
+        "mapfre_credit": "National Portrait Gallery, Londres · NPG977 · © Album / Alamy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "place": "Madrid — Fundación MAPFRE",
+        "title": "En la ópera",
+        "artist": "Cathy Brown",
+        "year": "1869",
+        "description": "Acuarela y lápiz sobre papel, 42 × 35,6 cm. El dossier solo indica colección particular; se geolocaliza en la sede de la exposición actual.",
+        "location_note": "Madrid — Fundación MAPFRE",
+        "relation_type": "history",
+        "relation_label": "Exposición actual",
+        "artwork_title": "En la ópera (1869)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-13.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-13.jpg",
+        "mapfre_press_number": "13",
+        "mapfre_feature": true,
+        "mapfre_credit": "Colección particular"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9916,
+          53.4108
+        ]
+      },
+      "properties": {
+        "place": "Liverpool — Walker Art Gallery",
+        "title": "Señoritas",
+        "artist": "Kate Greenaway",
+        "year": "1879",
+        "description": "Acuarela sobre papel, 50,2 × 36,2 cm. Conservada en la Walker Art Gallery.",
+        "location_note": "Liverpool — Walker Art Gallery",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Señoritas (1879)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-14.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-14.jpg",
+        "mapfre_press_number": "14",
+        "mapfre_feature": true,
+        "mapfre_credit": "National Museums Liverpool, Walker Art Gallery · WAG 883 · © Courtesy National Museums Liverpool, Walker Art Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136,
+          51.5078
+        ]
+      },
+      "properties": {
+        "place": "Londres — St James’s",
+        "title": "Descansando",
+        "artist": "Edith Martineau",
+        "year": "1886",
+        "description": "Acuarela sobre papel, 58 × 39 cm. El dossier la presenta por cortesía de Chris Beetles Gallery, St James’s, Londres.",
+        "location_note": "Londres — St James’s",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación / procedencia",
+        "artwork_title": "Descansando (1886)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-15.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-15.jpg",
+        "mapfre_press_number": "15",
+        "mapfre_feature": true,
+        "mapfre_credit": "Cortesía de Chris Beetles Gallery, St James’s, Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2455,
+          42.5836
+        ]
+      },
+      "properties": {
+        "place": "Bloomfield Hills — Cranbrook Art Museum",
+        "title": "Colgaduras de cama",
+        "artist": "May Morris y Mary Newill",
+        "year": "antes de 1917",
+        "description": "Lana bordada sobre lino, 193,8 × 68,5 cm. Diseño y bordado de May Morris; bordado de Mary Newill.",
+        "location_note": "Bloomfield Hills — Cranbrook Art Museum",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Colgaduras de cama (antes de 1917)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-16.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-16.jpg",
+        "mapfre_press_number": "16",
+        "mapfre_feature": true,
+        "mapfre_credit": "Cranbrook Art Museum · CAM 1955.402.A and B · © Cranbrook Art Museum · Photo: R. H. Hensleigh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1395,
+          51.509
+        ]
+      },
+      "properties": {
+        "place": "Londres — Royal Academy of Arts",
+        "title": "El salón, Townshend House",
+        "artist": "Anna Alma-Tadema",
+        "year": "10 de septiembre de 1885",
+        "description": "Acuarela, lápiz, pluma y tinta sobre cartulina, 27,2 × 34 cm. Conservada en la Royal Academy of Arts, Londres.",
+        "location_note": "Londres — Royal Academy of Arts",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "El salón, Townshend House (10 de septiembre de 1885)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-17.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-17.jpg",
+        "mapfre_press_number": "17",
+        "mapfre_feature": true,
+        "mapfre_credit": "Royal Academy of Arts, Londres · 08/3530 · © Photo: Royal Academy of Arts, London"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9034,
+          52.4809
+        ]
+      },
+      "properties": {
+        "place": "Birmingham — Birmingham Museums Trust",
+        "title": "El vencedor",
+        "artist": "Fanny Bunn",
+        "year": "1904",
+        "description": "Esmalte sobre cobre con marco de madera ebonizada, 31,4 × 22,8 × 3,6 cm.",
+        "location_note": "Birmingham — Birmingham Museums Trust",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "El vencedor (1904)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-18.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-18.jpg",
+        "mapfre_press_number": "18",
+        "mapfre_feature": true,
+        "mapfre_credit": "Birmingham Museums Trust, en nombre del Birmingham City Council · 1982M34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9034,
+          52.4809
+        ]
+      },
+      "properties": {
+        "place": "Birmingham — Birmingham Museums Trust",
+        "title": "El sueño tras el esfuerzo",
+        "artist": "Mary Newill",
+        "year": "1903–1907",
+        "description": "Vidrio coloreado, teñido y pintado con perfiles de plomo, 33 × 125,7 cm.",
+        "location_note": "Birmingham — Birmingham Museums Trust",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "El sueño tras el esfuerzo (1903–1907)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-19.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-19.jpg",
+        "mapfre_press_number": "19",
+        "mapfre_feature": true,
+        "mapfre_credit": "Birmingham Museums Trust, en nombre del Birmingham City Council · 2001M16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3859,
+          33.7896
+        ]
+      },
+      "properties": {
+        "place": "Atlanta — High Museum of Art",
+        "title": "Santa Bárbara",
+        "artist": "Marie Spartali Stillman",
+        "year": "c. 1875–1880",
+        "description": "Gouache, acuarela y lápiz sobre papel montado sobre tabla, 67,9 × 52,7 cm.",
+        "location_note": "Atlanta — High Museum of Art",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Santa Bárbara (c. 1875–1880)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-20.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-20.jpg",
+        "mapfre_press_number": "20",
+        "mapfre_feature": true,
+        "mapfre_credit": "High Museum of Art, Atlanta · Adquisición con fondos de la Phoenix Society · 1994.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3266,
+          48.86
+        ]
+      },
+      "properties": {
+        "place": "París — Musée d’Orsay",
+        "title": "El pálido semblante del amor verdadero",
+        "artist": "Eleanor Fortescue-Brickdale",
+        "year": "1899",
+        "description": "Óleo sobre lienzo, 71,4 × 91,8 cm. Conservado en el Musée d’Orsay.",
+        "location_note": "París — Musée d’Orsay",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "El pálido semblante del amor verdadero (1899)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-21.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-21.jpg",
+        "mapfre_press_number": "21",
+        "mapfre_feature": true,
+        "mapfre_credit": "Musée d’Orsay, París · RF MO P 2023 10 · © Musée d’Orsay, Dist. GrandPalaisRmn / Sophie Crépy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "place": "Londres — colección particular",
+        "title": "Santa Isabel de Hungría, hilando lana para los pobres",
+        "artist": "Marianne Stokes",
+        "year": "1895",
+        "description": "Óleo sobre lienzo, 96,5 × 61 cm. El dossier sitúa la colección particular en Londres.",
+        "location_note": "Londres — colección particular",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Santa Isabel de Hungría, hilando lana para los pobres (1895)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-22.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-22.jpg",
+        "mapfre_press_number": "22",
+        "mapfre_feature": true,
+        "mapfre_credit": "Colección particular, Londres · © Paul Tucker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "place": "Madrid — Fundación MAPFRE",
+        "title": "El testamento del amor",
+        "artist": "Phoebe Traquair",
+        "year": "1898",
+        "description": "Óleo sobre lienzo, 53,34 × 35,56 cm. El dossier solo indica colección particular; se geolocaliza en la sede de la exposición actual.",
+        "location_note": "Madrid — Fundación MAPFRE",
+        "relation_type": "history",
+        "relation_label": "Exposición actual",
+        "artwork_title": "El testamento del amor (1898)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-23.jpg",
+        "mapfre_press_number": "23",
+        "mapfre_feature": true,
+        "mapfre_credit": "Colección particular"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.479,
+          53.5526
+        ]
+      },
+      "properties": {
+        "place": "Barnsley — De Morgan Foundation",
+        "title": "Lux in Tenebris",
+        "artist": "Evelyn De Morgan",
+        "year": "1895",
+        "description": "Óleo sobre lienzo, 126 × 74,8 cm. Conservado por la De Morgan Foundation, Barnsley.",
+        "location_note": "Barnsley — De Morgan Foundation",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Lux in Tenebris (1895)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-24.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-24.jpg",
+        "mapfre_press_number": "24",
+        "mapfre_feature": true,
+        "mapfre_credit": "De Morgan Foundation, Barnsley · P_EDM_0028 · © De Morgan Foundation Trustees"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2304,
+          53.4591
+        ]
+      },
+      "properties": {
+        "place": "Manchester — The Whitworth",
+        "title": "Ehret die Frauen (Honrad a las mujeres)",
+        "artist": "Marianne Stokes",
+        "year": "1912",
+        "description": "Tapiz de lana y seda sobre algodón, 174,9 × 253,6 cm. Realizado por Morris & Co.",
+        "location_note": "Manchester — The Whitworth",
+        "relation_type": "history",
+        "relation_label": "Lugar de conservación",
+        "artwork_title": "Ehret die Frauen (Honrad a las mujeres) (1912)",
+        "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
+        "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-25.jpg",
+        "source": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-25.jpg",
+        "mapfre_press_number": "25",
+        "mapfre_feature": true,
+        "mapfre_credit": "The Whitworth, The University of Manchester · T.1975.124.1"
       }
     }
   ]
