@@ -89,6 +89,28 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.513,
+          51.05
+        ]
+      },
+      "properties": {
+        "title": "Retrato de Sir John Herschel",
+        "artist": "Julia Margaret Cameron",
+        "year": "1867",
+        "description": "El retrato de Herschel fue realizado en su residencia de Collingwood, en Hawkhurst (Kent), durante una visita de Julia Margaret Cameron. La localización es aproximada, referida a la localidad.",
+        "location_note": "Hawkhurst, Kent: lugar de creación de la fotografía; punto situado en el centro aproximado de la localidad.",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación",
+        "image": "",
+        "source": "https://www.npg.org.uk/collections/search/person/mp02159/sir-john-frederick-william-herschel",
+        "reference": "https://www.npg.org.uk/collections/search/person/mp02159/sir-john-frederick-william-herschel"
+      }
     }
   ]
 }
