@@ -21,7 +21,17 @@ footer{padding:8px 20px;font:12px system-ui,sans-serif}
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
 const map=L.map('map',{scrollWheelZoom:false}).setView([51.3,-1.8],6);
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+const basemaps={
+'Claro':L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap contributors &copy; CARTO'}),
+'Clásico':L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap contributors'}),
+'Oscuro':L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap contributors &copy; CARTO'})
+};
+basemaps['Claro'].addTo(map);
+L.control.layers(basemaps,null,{position:'topright',collapsed:true}).addTo(map);
+map.whenReady(()=>setTimeout(()=>map.invalidateSize({pan:false}),250));
+window.addEventListener('resize',()=>map.invalidateSize({pan:false}));
+if(window.ResizeObserver){new ResizeObserver(()=>map.invalidateSize({pan:false})).observe(document.getElementById('map'));}
+
 function safe(t){return String(t??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 fetch('./lugares.geojson').then(r=>{if(!r.ok)throw Error('No se pudieron cargar los lugares');return r.json()}).then(data=>{
 const layer=L.geoJSON(data,{pointToLayer:(f,latlng)=>L.circleMarker(latlng,{radius:8,color:'#644732',weight:2,fillColor:'#b78c65',fillOpacity:.9}),onEachFeature:(f,l)=>{
