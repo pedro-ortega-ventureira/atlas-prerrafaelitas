@@ -17,6 +17,33 @@ header{padding:16px 22px;border-bottom:1px solid #d8cbb9}h1{font-size:clamp(20px
 .leaflet-popup-content a{color:#684a36}.status{border-left:3px solid #a17e5e;padding-left:8px}
 .legend{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;padding:12px 20px;font:13px system-ui,sans-serif;background:#f0eae0;border-bottom:1px solid #d8cbb9}.legend strong{margin-right:5px}.legend span{display:inline-flex;align-items:center;gap:5px}.legend i{display:inline-block;width:11px;height:11px;border-radius:50%}footer{padding:8px 20px;font:12px system-ui,sans-serif}
 @media(max-width:760px){header{padding:12px 16px}#workspace{display:flex;flex-direction:column;height:auto}#map{height:52dvh;min-height:300px;order:0}#sidebar{height:43dvh;min-height:260px;order:1;border-right:0;border-top:1px solid #ded3c3}.sidebar-head{padding:12px 16px}.sidebar-head h2{font-size:21px}.place-item{padding:12px 16px}.legend{padding:9px 16px}}
+
+/* Tema claro editorial: blanco, grises frios y azul tinta */
+:root{--ink:#202d3b;--accent:#315f81;--paper:#f6f8fa}
+body{color:var(--ink);background:#f6f8fa}
+header{background:#fff;border-bottom:1px solid #dbe3e9}
+header p{color:#617184}
+#workspace{background:#fff}
+#sidebar{background:#fff;border-right:1px solid #dbe3e9}
+#map{background:#e9f0f5}
+.sidebar-head{background:#fff;border-bottom:1px solid #e3e9ee}
+.sidebar-head p,.place-item .place-desc{color:#617184}
+.eyebrow{color:#607a90}
+.place-item{border-bottom:1px solid #e8edf1}
+.place-item:hover,.place-item:focus-visible,.place-item.active{background:#edf4f8}
+.place-item .place-artist{color:#657c8d}
+.place-item .place-action,.leaflet-popup-content a{color:#246187}
+.sidebar-search{border:1px solid #cddae4;background:#fbfdff;color:#243647}
+.sidebar-search:focus{outline:2px solid #7fa8c6;outline-offset:1px}
+.legend{background:#f1f5f8;border-bottom:1px solid #dbe3e9}
+footer{background:#fff;border-top:1px solid #e3e9ee;color:#607184}
+.leaflet-popup-content-wrapper{border-radius:9px;background:#fff;box-shadow:0 8px 30px #203b522b}
+.leaflet-popup-content img{background:#f3f6f9}
+.work{border-bottom:1px solid #e3e9ee}
+.meta,.status,.credit{color:#627487}
+.status{border-left:3px solid #8caec4}
+.leaflet-control-zoom a{color:#315f81}
+@media(max-width:760px){#sidebar{border-top:1px solid #dbe3e9}}
 </style></head><body>
 <header><h1>Atlas de las mujeres prerrafaelitas</h1><p>Itinerarios artísticos y geografías de la creación · Un mapa complementario al ensayo para Jot Down</p></header>
 <div class="legend" aria-label="Leyenda del mapa"><strong>Leyenda</strong><span><i style="background:#347a67"></i>Lugar de creación</span><span><i style="background:#a46c37"></i>Lugar representado</span><span><i style="background:#6b5a98"></i>Historia de la obra</span><span><i style="background:#376b9b"></i>Trayectoria de la artista</span></div>
