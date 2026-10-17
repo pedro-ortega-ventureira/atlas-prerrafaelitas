@@ -661,6 +661,270 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1368,
+          51.4564
+        ]
+      },
+      "properties": {
+        "place": "Bexleyheath — Red House",
+        "title": "Decoración colectiva de Red House",
+        "artist": "Elizabeth Siddal",
+        "year": "1860–1864",
+        "description": "El National Trust documenta la participación de Elizabeth Siddal en la decoración mural y del mobiliario de Red House, junto a otros artistas del círculo prerrafaelita.",
+        "location_note": "Bexleyheath — Red House: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.196,
+          52.588
+        ]
+      },
+      "properties": {
+        "place": "Wolverhampton — Wightwick Manor",
+        "title": "The Haunted Wood (1856), colección Wightwick Manor",
+        "artist": "Elizabeth Siddal",
+        "year": "1856",
+        "description": "Wightwick Manor conserva el gouache The Haunted Wood de Elizabeth Siddal, identificado como objeto 1287904 en la colección del National Trust.",
+        "location_note": "Wolverhampton — Wightwick Manor: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://www.nationaltrustcollections.org.uk/object/1287904",
+        "relation_type": "history",
+        "relation_label": "Historia de la obra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.196,
+          52.588
+        ]
+      },
+      "properties": {
+        "place": "Wolverhampton — Wightwick Manor",
+        "title": "Sister Helen (1860), colección Wightwick Manor",
+        "artist": "Elizabeth Siddal",
+        "year": "1860",
+        "description": "Dibujo de Siddal inspirado en el poema Sister Helen, documentado en la colección del National Trust con el número 1288022.",
+        "location_note": "Wolverhampton — Wightwick Manor: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://www.nationaltrustcollections.org.uk/object/1288022",
+        "relation_type": "history",
+        "relation_label": "Historia de la obra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.196,
+          52.588
+        ]
+      },
+      "properties": {
+        "place": "Wolverhampton — Wightwick Manor",
+        "title": "The Garden of Opportunity (1892), colección Wightwick Manor",
+        "artist": "Evelyn De Morgan",
+        "year": "1892",
+        "description": "La De Morgan Foundation identifica The Garden of Opportunity como pintura de 1892 asociada a la colección de Wightwick Manor.",
+        "location_note": "Wolverhampton — Wightwick Manor: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/collection/the-garden-of-opportunity/",
+        "relation_type": "history",
+        "relation_label": "Historia de la obra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2558,
+          43.7696
+        ]
+      },
+      "properties": {
+        "place": "Florencia",
+        "title": "The Garden of Opportunity (1892), pintada en Florencia",
+        "artist": "Evelyn De Morgan",
+        "year": "1892",
+        "description": "La De Morgan Foundation documenta que Evelyn ejecutó esta obra durante su estancia en Florencia, donde alquilaba espacios de estudio.",
+        "location_note": "Florencia: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/wp-content/uploads/2021/10/2021-Completed-Exhibition-Folder-Look-Beneath-the-Lustre-explore-book.pdf",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.464,
+          50.197
+        ]
+      },
+      "properties": {
+        "place": "Carbis Bay, Cornualles",
+        "title": "Colonia artística de St Ives y residencia en Carbis Bay",
+        "artist": "Marianne Stokes",
+        "year": "Desde 1886",
+        "description": "Penlee House documenta que Marianne y Adrian Stokes se trasladaron a Carbis Bay en 1886 y participaron activamente en la colonia artística de St Ives.",
+        "location_note": "Carbis Bay, Cornualles: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://penleehouse.org.uk/exhibition/utmost-fidelity-marianne-stokes/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.746,
+          47.855
+        ]
+      },
+      "properties": {
+        "place": "Pont-Aven, Bretaña",
+        "title": "Trabajo artístico en la colonia de Pont-Aven",
+        "artist": "Marianne Stokes",
+        "year": "1883",
+        "description": "Marianne Preindlsberger trabajó en la colonia artística de Pont-Aven, donde conoció a Adrian Stokes en 1883.",
+        "location_note": "Pont-Aven, Bretaña: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://penleehouse.org.uk/exhibition/utmost-fidelity-marianne-stokes/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.135
+        ]
+      },
+      "properties": {
+        "place": "Múnich",
+        "title": "Formación artística en Múnich",
+        "artist": "Marianne Stokes",
+        "year": "Década de 1870",
+        "description": "Penlee House documenta que la artista austriaca inició sus estudios artísticos en Múnich, antes de ampliar su formación en Francia.",
+        "location_note": "Múnich: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://penleehouse.org.uk/exhibition/utmost-fidelity-marianne-stokes/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.539,
+          50.116
+        ]
+      },
+      "properties": {
+        "place": "Penzance — Penlee House",
+        "title": "Lantern Light (1888), colección Penlee House",
+        "artist": "Marianne Stokes",
+        "year": "1888",
+        "description": "Penlee House conserva Lantern Light, óleo de Marianne Stokes fechado en 1888; se trata de un lugar de conservación, no de creación.",
+        "location_note": "Penzance — Penlee House: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://penleehouse.org.uk/exhibition/making-her-mark-a-celebration-of-women-in-art/",
+        "relation_type": "history",
+        "relation_label": "Historia de la obra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.204,
+          51.499
+        ]
+      },
+      "properties": {
+        "place": "Londres — Leighton House",
+        "title": "Exposición de cuatro pinturas de Evelyn De Morgan",
+        "artist": "Evelyn De Morgan",
+        "year": "1902",
+        "description": "En 1902 se mostraron en Leighton House The Storm Spirits, Earthbound, Blindness and Cupidity Chasing Joy from the City y Port After Stormy Seas.",
+        "location_note": "Londres — Leighton House: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/exhibitions/exhibitions-2/modern-artist-in-victorian-london/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.138,
+          51.514
+        ]
+      },
+      "properties": {
+        "place": "Londres — Great Marlborough Street",
+        "title": "Visitas al estudio de Evelyn y William De Morgan",
+        "artist": "Evelyn De Morgan",
+        "year": "Finales del siglo XIX",
+        "description": "La De Morgan Foundation documenta las visitas dominicales conjuntas al estudio de ambos artistas en 45 Great Marlborough Street.",
+        "location_note": "Londres — Great Marlborough Street: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/exhibitions/exhibitions-2/modern-artist-in-victorian-london/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.127,
+          52.587
+        ]
+      },
+      "properties": {
+        "place": "Wolverhampton — Art Gallery",
+        "title": "Exposición individual de Evelyn De Morgan",
+        "artist": "Evelyn De Morgan",
+        "year": "1907",
+        "description": "La De Morgan Foundation documenta una exposición individual de Evelyn De Morgan en Wolverhampton Art Gallery en 1907.",
+        "location_note": "Wolverhampton — Art Gallery: punto aproximado; la fuente acredita la relación, no necesariamente estas coordenadas exactas.",
+        "image": "",
+        "source": "https://www.demorgan.org.uk/exhibitions/exhibitions-2/modern-artist-in-victorian-london/",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista"
+      }
     }
   ]
 }
