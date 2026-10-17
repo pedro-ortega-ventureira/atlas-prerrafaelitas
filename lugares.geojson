@@ -40,6 +40,26 @@
         "source": "https://commons.wikimedia.org/wiki/File:Anna_Alma-Tadema%2C_The_Drawing_Room%2C_Townshend_House%2C_1885.jpg",
         "place": "Londres"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.96,
+          6.5854
+        ]
+      },
+      "properties": {
+        "title": "Girl, Ceylon",
+        "artist": "Julia Margaret Cameron",
+        "year": "1875–1879",
+        "description": "Retrato realizado durante la etapa de Cameron en Ceilán, actual Sri Lanka. El J. Paul Getty Museum documenta Ceilán como lugar de creación. La fotógrafa vivió en Kalutara; no se conoce la ubicación exacta de esta toma.",
+        "location_note": "Kalutara, Sri Lanka: referencia geográfica a la etapa de producción de la fotografía, no coordenadas comprobadas del lugar de la toma.",
+        "image": "",
+        "source": "https://www.getty.edu/art/collection/object/1043QN/",
+        "reference": "https://artsandculture.google.com/asset/girl-ceylon/DQEvDa4sicJxvA"
+      }
     }
   ]
 }
