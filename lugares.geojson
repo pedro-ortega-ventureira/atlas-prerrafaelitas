@@ -22,7 +22,15 @@
         "relation_type": "depicted",
         "relation_label": "Lugar representado",
         "artwork_title": "View from the Window of Balcony House, Tynemouth (1864)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Vista desde la ventana de Balcony House",
+            "year": "1864",
+            "press_number": "02"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -46,7 +54,15 @@
         "relation_type": "depicted",
         "relation_label": "Lugar representado",
         "artwork_title": "The Drawing Room, Townshend House (1885)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "El salón, Townshend House",
+            "year": "1885",
+            "press_number": "17"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -71,7 +87,15 @@
         "relation_label": "Lugar de creación",
         "image_note": "No se ha localizado todavía una URL directa de reproducción fiable.",
         "artwork_title": "Girl, Ceylon (c. 1875–1879)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Alethea",
+            "year": "1872",
+            "press_number": "10"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -95,7 +119,15 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "Sir John Herschel (1867)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Alethea",
+            "year": "1872",
+            "press_number": "10"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -119,7 +151,15 @@
         "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_John_Herschel_by_Julia_Margaret_Cameron%2C_1867.jpg",
         "reference": "https://www.npg.org.uk/collections/search/person/mp02159/sir-john-frederick-william-herschel",
         "artwork_title": "Sir John Herschel (1867)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Alethea",
+            "year": "1872",
+            "press_number": "10"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -143,7 +183,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -167,7 +225,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -191,7 +267,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -215,7 +309,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -239,7 +351,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa; no se ha comprobado que formara parte de la retrospectiva"
+        "artwork_relation": "Obra representativa; no se ha comprobado que formara parte de la retrospectiva",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -263,7 +393,15 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Murales de Mansfield Place (1893–1901)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "El testamento del amor",
+            "year": "1898",
+            "press_number": "23"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -287,7 +425,15 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Murales de la Song School (1888–1892)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "El testamento del amor",
+            "year": "1898",
+            "press_number": "23"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -311,7 +457,15 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Murales de la capilla del Royal Hospital for Sick Children (1885–1886)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "El testamento del amor",
+            "year": "1898",
+            "press_number": "23"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -335,7 +489,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -359,7 +531,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -383,7 +573,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -407,7 +615,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -431,7 +657,25 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Love’s Messenger (1885)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Beatriz",
+            "year": "1896",
+            "press_number": "11"
+          },
+          {
+            "title": "La infancia de santa Cecilia",
+            "year": "1883",
+            "press_number": "12"
+          },
+          {
+            "title": "Santa Bárbara",
+            "year": "c. 1875–1880",
+            "press_number": "20"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -455,7 +699,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -479,7 +731,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -503,7 +763,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -527,7 +795,15 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Flora (1894)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -551,7 +827,15 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Paneles de ángeles de All Saints Church (1883)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -575,7 +859,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa; no se ha comprobado que formara parte de esta colección"
+        "artwork_relation": "Obra representativa; no se ha comprobado que formara parte de esta colección",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -599,7 +891,15 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "The Garden of Opportunity (1892)",
-        "artwork_relation": "Obra vinculada a la colección; verificar presencia actual"
+        "artwork_relation": "Obra vinculada a la colección; verificar presencia actual",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -623,7 +923,15 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "Flora (1894)",
-        "artwork_relation": "Obra representativa; no se ha comprobado su presencia en la sede"
+        "artwork_relation": "Obra representativa; no se ha comprobado su presencia en la sede",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -647,7 +955,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Kiss of Peace (1869)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Alethea",
+            "year": "1872",
+            "press_number": "10"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -671,7 +987,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "Under the Window (1879)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Señoritas",
+            "year": "1879",
+            "press_number": "14"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -695,7 +1019,15 @@
         "relation_type": "depicted",
         "relation_label": "Lugar representado",
         "artwork_title": "The Homestead and the Forest (c. 1900)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Colgaduras de cama",
+            "year": "antes de 1917",
+            "press_number": "16"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -743,7 +1075,15 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "Decoración mural de Red House (c. 1860–1864)",
-        "artwork_relation": "Obra o conjunto relacionado con este lugar"
+        "artwork_relation": "Obra o conjunto relacionado con este lugar",
+        "mapfre_works": [
+          {
+            "title": "La dama de Shalott",
+            "year": "1853",
+            "press_number": "05"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -767,7 +1107,15 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "The Haunted Wood (1856)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "La dama de Shalott",
+            "year": "1853",
+            "press_number": "05"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -791,7 +1139,15 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "Sister Helen (1860)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "La dama de Shalott",
+            "year": "1853",
+            "press_number": "05"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -815,7 +1171,15 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "The Garden of Opportunity (1892)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -839,7 +1203,15 @@
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
         "artwork_title": "The Garden of Opportunity (1892)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -863,7 +1235,20 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Passing Train (1890)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Santa Isabel de Hungría, hilando lana para los pobres",
+            "year": "1895",
+            "press_number": "22"
+          },
+          {
+            "title": "Ehret die Frauen",
+            "year": "1912",
+            "press_number": "25"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -887,7 +1272,20 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Passing Train (1890)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Santa Isabel de Hungría, hilando lana para los pobres",
+            "year": "1895",
+            "press_number": "22"
+          },
+          {
+            "title": "Ehret die Frauen",
+            "year": "1912",
+            "press_number": "25"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -911,7 +1309,20 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Passing Train (1890)",
-        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar"
+        "artwork_relation": "Obra representativa de la artista; no consta que se realizara, expusiera o conservara en este lugar",
+        "mapfre_works": [
+          {
+            "title": "Santa Isabel de Hungría, hilando lana para los pobres",
+            "year": "1895",
+            "press_number": "22"
+          },
+          {
+            "title": "Ehret die Frauen",
+            "year": "1912",
+            "press_number": "25"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -935,7 +1346,20 @@
         "relation_type": "history",
         "relation_label": "Historia de la obra",
         "artwork_title": "Lantern Light (1888)",
-        "artwork_relation": "Obra vinculada directamente al lugar"
+        "artwork_relation": "Obra vinculada directamente al lugar",
+        "mapfre_works": [
+          {
+            "title": "Santa Isabel de Hungría, hilando lana para los pobres",
+            "year": "1895",
+            "press_number": "22"
+          },
+          {
+            "title": "Ehret die Frauen",
+            "year": "1912",
+            "press_number": "25"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -959,7 +1383,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Storm Spirits; Earthbound; Blindness and Cupidity Chasing Joy from the City; Port After Stormy Seas",
-        "artwork_relation": "Obra o conjunto relacionado con este lugar"
+        "artwork_relation": "Obra o conjunto relacionado con este lugar",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -983,7 +1415,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa; no está comprobado que se realizara en este estudio"
+        "artwork_relation": "Obra representativa; no está comprobado que se realizara en este estudio",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     },
     {
@@ -1007,7 +1447,15 @@
         "relation_type": "artist",
         "relation_label": "Trayectoria de la artista",
         "artwork_title": "The Love Potion (1903)",
-        "artwork_relation": "Obra representativa; no está comprobado que figurara en esta exposición"
+        "artwork_relation": "Obra representativa; no está comprobado que figurara en esta exposición",
+        "mapfre_works": [
+          {
+            "title": "Lux in Tenebris",
+            "year": "1895",
+            "press_number": "24"
+          }
+        ],
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
       }
     }
   ]
