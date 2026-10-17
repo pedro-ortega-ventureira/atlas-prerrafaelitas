@@ -15,11 +15,11 @@ header{padding:16px 22px;border-bottom:1px solid #d8cbb9}h1{font-size:clamp(20px
 .work{padding:8px 0 14px;border-bottom:1px solid #d9cdbd}.work:last-child{border-bottom:0}.works{max-height:360px;overflow-y:auto}.leaflet-popup-content h2{font:21px/1.2 Georgia,serif;margin:9px 0 4px}
 .leaflet-popup-content p{margin:7px 0}.meta,.status,.credit{font:12px/1.5 system-ui,sans-serif;color:#625b54}
 .leaflet-popup-content a{color:#684a36}.status{border-left:3px solid #a17e5e;padding-left:8px}
-.legend{display:flex;flex-wrap:wrap;gap:12px;padding:7px 20px;font:12px system-ui,sans-serif;background:#f0eae0}.legend span{display:inline-flex;align-items:center;gap:5px}.legend i{display:inline-block;width:11px;height:11px;border-radius:50%}footer{padding:8px 20px;font:12px system-ui,sans-serif}
+.legend{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;padding:12px 20px;font:13px system-ui,sans-serif;background:#f0eae0;border-bottom:1px solid #d8cbb9}.legend strong{margin-right:5px}.legend span{display:inline-flex;align-items:center;gap:5px}.legend i{display:inline-block;width:11px;height:11px;border-radius:50%}footer{padding:8px 20px;font:12px system-ui,sans-serif}
 @media(max-width:600px){header{padding:10px 14px}#map{height:calc(100dvh - 135px)}}
 </style></head><body>
 <header><h1>Atlas de las mujeres prerrafaelitas</h1><p>Itinerarios artísticos y geografías de la creación · Un mapa complementario al ensayo para Jot Down</p></header>
-<div class="legend" aria-label="Tipos de relación"><span><i style="background:#347a67"></i>Lugar de creación</span><span><i style="background:#a46c37"></i>Lugar representado</span><span><i style="background:#6b5a98"></i>Historia de la obra</span></div>
+<div class="legend" aria-label="Leyenda del mapa"><strong>Leyenda</strong><span><i style="background:#347a67"></i>Lugar de creación</span><span><i style="background:#a46c37"></i>Lugar representado</span><span><i style="background:#6b5a98"></i>Historia de la obra</span></div>
 <div id="map" role="application" aria-label="Mapa interactivo de las artistas prerrafaelitas"></div>
 <footer>Los marcadores señalan relaciones geográficas, no necesariamente el lugar donde se ejecutó la obra. Las ubicaciones se documentan individualmente.</footer>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -44,8 +44,8 @@ for(const works of grouped.values()){
 const coords=works[0].geometry.coordinates;
 const palette={creation:'#347a67',depicted:'#a46c37',history:'#6b5a98'};const kind=works[0].properties.relation_type||'history';const marker=L.circleMarker([coords[1],coords[0]],{radius:works.length>1?12:8,color:'#ffffff',weight:2,fillColor:palette[kind],fillOpacity:.96}).addTo(layer);
 const cards=works.map(f=>{const p=f.properties||{};
-const image=p.image?'<img loading="lazy" src="'+safe(p.image)+'" alt="'+safe(p.title)+'" onerror="this.style.display=\'none\'">':'';
-const link=p.source?'<p class="credit"><a href="'+safe(p.source)+'" target="_blank" rel="noopener noreferrer">Imagen y ficha en Wikimedia Commons ↗</a></p>':'';
+const image=p.image?'<a href="'+safe(p.source||p.image)+'" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="'+safe(p.image)+'" alt="Reproducción de '+safe(p.title)+'" onerror="this.closest(\'a\').style.display=\'none\';this.closest(\'a\').insertAdjacentHTML(\'afterend\',\'<p class=meta>Imagen no disponible. Consulte la ficha de la obra.</p>\')"></a>':'<p class="meta">Reproducción pendiente de incorporar.</p>';
+const link=p.source?'<p class="credit"><a href="'+safe(p.source)+'" target="_blank" rel="noopener noreferrer">Ver ficha o reproducción en la institución de origen ↗</a></p>':'';
 return '<article class="work"><p class="meta"><strong>'+safe(p.relation_label||'Relación geográfica')+'</strong></p>'+image+'<h2>'+safe(p.title)+'</h2><p class="meta">'+safe(p.artist)+' · '+safe(p.year)+'</p><p>'+safe(p.description)+'</p><p class="status">'+safe(p.location_note)+'</p>'+link+'</article>';
 }).join('');
 marker.bindPopup((works.length>1?'<p class="meta"><strong>'+works.length+' obras vinculadas a este lugar</strong></p>':'')+'<div class="works">'+cards+'</div>',{maxWidth:360,maxHeight:440});
