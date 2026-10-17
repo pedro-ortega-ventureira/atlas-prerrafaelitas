@@ -27,10 +27,13 @@
           {
             "title": "Vista desde la ventana de Balcony House",
             "year": "1864",
-            "press_number": "02"
+            "press_number": "02",
+            "image": "mapfre-02.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-02.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -59,10 +62,13 @@
           {
             "title": "El salón, Townshend House",
             "year": "1885",
-            "press_number": "17"
+            "press_number": "17",
+            "image": "mapfre-17.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-17.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -92,10 +98,13 @@
           {
             "title": "Alethea",
             "year": "1872",
-            "press_number": "10"
+            "press_number": "10",
+            "image": "mapfre-10.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-10.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -124,10 +133,13 @@
           {
             "title": "Alethea",
             "year": "1872",
-            "press_number": "10"
+            "press_number": "10",
+            "image": "mapfre-10.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-10.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -156,10 +168,13 @@
           {
             "title": "Alethea",
             "year": "1872",
-            "press_number": "10"
+            "press_number": "10",
+            "image": "mapfre-10.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-10.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -188,20 +203,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -230,20 +250,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -272,20 +297,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -314,20 +344,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -356,20 +391,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -398,10 +438,13 @@
           {
             "title": "El testamento del amor",
             "year": "1898",
-            "press_number": "23"
+            "press_number": "23",
+            "image": "mapfre-23.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-23.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -430,10 +473,13 @@
           {
             "title": "El testamento del amor",
             "year": "1898",
-            "press_number": "23"
+            "press_number": "23",
+            "image": "mapfre-23.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-23.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -462,10 +508,13 @@
           {
             "title": "El testamento del amor",
             "year": "1898",
-            "press_number": "23"
+            "press_number": "23",
+            "image": "mapfre-23.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-23.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -494,20 +543,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -536,20 +590,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -578,20 +637,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -620,20 +684,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -662,20 +731,25 @@
           {
             "title": "Beatriz",
             "year": "1896",
-            "press_number": "11"
+            "press_number": "11",
+            "image": "mapfre-11.jpg"
           },
           {
             "title": "La infancia de santa Cecilia",
             "year": "1883",
-            "press_number": "12"
+            "press_number": "12",
+            "image": "mapfre-12.jpg"
           },
           {
             "title": "Santa Bárbara",
             "year": "c. 1875–1880",
-            "press_number": "20"
+            "press_number": "20",
+            "image": "mapfre-20.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-11.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -704,10 +778,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -736,10 +813,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -768,10 +848,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -800,10 +883,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -832,10 +918,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -864,10 +953,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -896,10 +988,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -928,10 +1023,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -960,10 +1058,13 @@
           {
             "title": "Alethea",
             "year": "1872",
-            "press_number": "10"
+            "press_number": "10",
+            "image": "mapfre-10.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-10.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -992,10 +1093,13 @@
           {
             "title": "Señoritas",
             "year": "1879",
-            "press_number": "14"
+            "press_number": "14",
+            "image": "mapfre-14.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-14.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1024,10 +1128,13 @@
           {
             "title": "Colgaduras de cama",
             "year": "antes de 1917",
-            "press_number": "16"
+            "press_number": "16",
+            "image": "mapfre-16.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-16.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1080,10 +1187,13 @@
           {
             "title": "La dama de Shalott",
             "year": "1853",
-            "press_number": "05"
+            "press_number": "05",
+            "image": "mapfre-05.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-05.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1112,10 +1222,13 @@
           {
             "title": "La dama de Shalott",
             "year": "1853",
-            "press_number": "05"
+            "press_number": "05",
+            "image": "mapfre-05.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-05.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1144,10 +1257,13 @@
           {
             "title": "La dama de Shalott",
             "year": "1853",
-            "press_number": "05"
+            "press_number": "05",
+            "image": "mapfre-05.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-05.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1176,10 +1292,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1208,10 +1327,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1240,15 +1362,19 @@
           {
             "title": "Santa Isabel de Hungría, hilando lana para los pobres",
             "year": "1895",
-            "press_number": "22"
+            "press_number": "22",
+            "image": "mapfre-22.jpg"
           },
           {
             "title": "Ehret die Frauen",
             "year": "1912",
-            "press_number": "25"
+            "press_number": "25",
+            "image": "mapfre-25.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-22.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1277,15 +1403,19 @@
           {
             "title": "Santa Isabel de Hungría, hilando lana para los pobres",
             "year": "1895",
-            "press_number": "22"
+            "press_number": "22",
+            "image": "mapfre-22.jpg"
           },
           {
             "title": "Ehret die Frauen",
             "year": "1912",
-            "press_number": "25"
+            "press_number": "25",
+            "image": "mapfre-25.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-22.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1314,15 +1444,19 @@
           {
             "title": "Santa Isabel de Hungría, hilando lana para los pobres",
             "year": "1895",
-            "press_number": "22"
+            "press_number": "22",
+            "image": "mapfre-22.jpg"
           },
           {
             "title": "Ehret die Frauen",
             "year": "1912",
-            "press_number": "25"
+            "press_number": "25",
+            "image": "mapfre-25.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-22.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1351,15 +1485,19 @@
           {
             "title": "Santa Isabel de Hungría, hilando lana para los pobres",
             "year": "1895",
-            "press_number": "22"
+            "press_number": "22",
+            "image": "mapfre-22.jpg"
           },
           {
             "title": "Ehret die Frauen",
             "year": "1912",
-            "press_number": "25"
+            "press_number": "25",
+            "image": "mapfre-25.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-22.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1388,10 +1526,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1420,10 +1561,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     },
     {
@@ -1452,10 +1596,13 @@
           {
             "title": "Lux in Tenebris",
             "year": "1895",
-            "press_number": "24"
+            "press_number": "24",
+            "image": "mapfre-24.jpg"
           }
         ],
-        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip"
+        "mapfre_source": "https://www.fundacionmapfre.org/media/Imagenes-Prerrafaelismo.-Itinerarios-femeninos.zip",
+        "mapfre_preview": "mapfre-24.jpg",
+        "mapfre_credit": "Imagen de prensa: Fundación MAPFRE · Prerrafaelismo. Itinerarios femeninos (1850–1914)"
       }
     }
   ]
