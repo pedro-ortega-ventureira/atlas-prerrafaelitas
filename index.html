@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Atlas de las mujeres prerrafaelitas</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyo2ZT7D/9KQ6o=" crossorigin="">
+<style>
+:root{color-scheme:light;--ink:#322c29;--accent:#755441;--paper:#faf7f1}
+*{box-sizing:border-box}body{margin:0;font:16px/1.5 Georgia,serif;color:var(--ink);background:var(--paper)}
+header{padding:16px 22px;border-bottom:1px solid #d8cbb9}h1{font-size:clamp(20px,3vw,29px);font-weight:normal;margin:0}header p{font:13px/1.4 system-ui,sans-serif;margin:4px 0 0;color:#625b54}
+#map{height:calc(100dvh - 102px);min-height:410px;background:#e8e3d9}
+.leaflet-popup-content-wrapper{border-radius:5px}.leaflet-popup-content{width:min(310px,72vw)!important;margin:16px}
+.leaflet-popup-content img{width:100%;max-height:260px;object-fit:contain;background:#f3eee6}
+.leaflet-popup-content h2{font:21px/1.2 Georgia,serif;margin:9px 0 4px}
+.leaflet-popup-content p{margin:7px 0}.meta,.status,.credit{font:12px/1.5 system-ui,sans-serif;color:#625b54}
+.leaflet-popup-content a{color:#684a36}.status{border-left:3px solid #a17e5e;padding-left:8px}
+footer{padding:8px 20px;font:12px system-ui,sans-serif}
+@media(max-width:600px){header{padding:10px 14px}#map{height:calc(100dvh - 96px)}}
+</style></head><body>
+<header><h1>Atlas de las mujeres prerrafaelitas</h1><p>Itinerarios artísticos y geografías de la creación · Un mapa complementario al ensayo para Jot Down</p></header>
+<div id="map" role="application" aria-label="Mapa interactivo de las artistas prerrafaelitas"></div>
+<footer>Los marcadores señalan relaciones geográficas, no necesariamente el lugar donde se ejecutó la obra. Las ubicaciones se documentan individualmente.</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+const map=L.map('map',{scrollWheelZoom:false}).setView([51.3,-1.8],6);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+function safe(t){return String(t??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+fetch('./lugares.geojson').then(r=>{if(!r.ok)throw Error('No se pudieron cargar los lugares');return r.json()}).then(data=>{
+const layer=L.geoJSON(data,{pointToLayer:(f,latlng)=>L.circleMarker(latlng,{radius:8,color:'#644732',weight:2,fillColor:'#b78c65',fillOpacity:.9}),onEachFeature:(f,l)=>{
+const p=f.properties||{};let image=p.image?'<img loading="lazy" src="'+safe(p.image)+'" alt="'+safe(p.title)+'">':'';
+let link=p.source?'<p class="credit"><a href="'+safe(p.source)+'" target="_blank" rel="noopener noreferrer">Fuente de la imagen y condiciones de uso ↗</a></p>':'';
+l.bindPopup(image+'<h2>'+safe(p.title)+'</h2><p class="meta">'+safe(p.artist)+' · '+safe(p.year)+'</p><p>'+safe(p.description)+'</p><p class="status">'+safe(p.location_note)+'</p>'+link,{maxWidth:340});
+}}).addTo(map);if(layer.getLayers().length)map.fitBounds(layer.getBounds().pad(.45));
+}).catch(e=>{document.querySelector('footer').textContent='No se han podido cargar los datos del mapa: '+e.message});
+</script></body></html>
