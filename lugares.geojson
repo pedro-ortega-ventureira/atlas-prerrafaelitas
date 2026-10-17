@@ -61,11 +61,11 @@
         "description": "Retrato realizado durante la etapa de Cameron en Ceilán, actual Sri Lanka. El J. Paul Getty Museum documenta Ceilán como lugar de creación. La fotógrafa vivió en Kalutara; no se conoce la ubicación exacta de esta toma.",
         "location_note": "Kalutara, Sri Lanka: referencia geográfica a la etapa de producción de la fotografía, no coordenadas comprobadas del lugar de la toma.",
         "image": "",
-        "source": "https://www.getty.edu/art/collection/",
+        "source": "https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700005897",
         "reference": "https://artsandculture.google.com/asset/girl-ceylon/DQEvDa4sicJxvA",
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
-        "image_note": "Imagen disponible en la ficha del Getty; reproducción pendiente de enlazar con URL autorizada."
+        "image_note": "No se ha localizado todavía una URL directa de reproducción fiable."
       }
     },
     {
@@ -107,8 +107,8 @@
         "location_note": "Hawkhurst, Kent: lugar de creación de la fotografía; punto situado en el centro aproximado de la localidad.",
         "relation_type": "creation",
         "relation_label": "Lugar de creación",
-        "image": "",
-        "source": "https://www.npg.org.uk/collections/search/person/mp02159/sir-john-frederick-william-herschel",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Sir_John_Herschel_by_Julia_Margaret_Cameron%2C_1867.jpg?width=640",
+        "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_John_Herschel_by_Julia_Margaret_Cameron%2C_1867.jpg",
         "reference": "https://www.npg.org.uk/collections/search/person/mp02159/sir-john-frederick-william-herschel"
       }
     }
