@@ -24,9 +24,9 @@ header{padding:16px 22px;border-bottom:1px solid #d8cbb9}h1{font-size:clamp(20px
 <footer>Los marcadores señalan relaciones geográficas, no necesariamente el lugar donde se ejecutó la obra. Las ubicaciones se documentan individualmente.</footer>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
-const map=L.map('map',{scrollWheelZoom:false}).setView([51.3,-1.8],6);
+const map=L.map('map',{scrollWheelZoom:false,worldCopyJump:false,maxBounds:[[-85,-180],[85,180]],maxBoundsViscosity:1,minZoom:2}).setView([51.3,-1.8],6);
 const basemaps={
-'Clásico':L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}),
+'Clásico':L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,noWrap:true,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}),
 'Humanitario':L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap contributors · HOT'})
 };
 basemaps['Clásico'].addTo(map);
@@ -44,12 +44,12 @@ for(const works of grouped.values()){
 const coords=works[0].geometry.coordinates;
 const palette={creation:'#347a67',depicted:'#a46c37',history:'#6b5a98'};const kind=works[0].properties.relation_type||'history';const marker=L.circleMarker([coords[1],coords[0]],{radius:works.length>1?12:8,color:'#ffffff',weight:2,fillColor:palette[kind],fillOpacity:.96}).addTo(layer);
 const cards=works.map(f=>{const p=f.properties||{};
-const image=p.image?'<a href="'+safe(p.source||p.image)+'" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="'+safe(p.image)+'" alt="Reproducción de '+safe(p.title)+'" onerror="this.closest(\'a\').style.display=\'none\';this.closest(\'a\').insertAdjacentHTML(\'afterend\',\'<p class=meta>Imagen no disponible. Consulte la ficha de la obra.</p>\')"></a>':'<p class="meta">Reproducción pendiente de incorporar.</p>';
-const link=p.source?'<p class="credit"><a href="'+safe(p.source)+'" target="_blank" rel="noopener noreferrer">Ver ficha o reproducción en la institución de origen ↗</a></p>':'';
+const image=p.image?'<a href="'+safe(p.source||p.image)+'" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="'+safe(p.image)+'" alt="Reproducción de '+safe(p.title)+'" onerror="this.style.display=\'none\'"></a>':'<p class="meta">Imagen pendiente de verificar. Consulte la ficha de la obra.</p>';
+const link=p.source?'<p class="credit"><a href="'+safe(p.source)+'" target="_blank" rel="noopener noreferrer">Consultar ficha de la obra ↗</a></p>':'';
 return '<article class="work"><p class="meta"><strong>'+safe(p.relation_label||'Relación geográfica')+'</strong></p>'+image+'<h2>'+safe(p.title)+'</h2><p class="meta">'+safe(p.artist)+' · '+safe(p.year)+'</p><p>'+safe(p.description)+'</p><p class="status">'+safe(p.location_note)+'</p>'+link+'</article>';
 }).join('');
 marker.bindPopup((works.length>1?'<p class="meta"><strong>'+works.length+' obras vinculadas a este lugar</strong></p>':'')+'<div class="works">'+cards+'</div>',{maxWidth:360,maxHeight:440});
 }
-if(layer.getLayers().length)map.fitBounds(L.featureGroup(layer.getLayers()).getBounds().pad(.4));
+if(layer.getLayers().length){const bounds=L.featureGroup(layer.getLayers()).getBounds();map.fitBounds(bounds.pad(.12),{maxZoom:8,animate:false});map.setMinZoom(Math.min(map.getZoom(),3));}
 }).catch(e=>{document.querySelector('footer').textContent='No se han podido cargar los datos del mapa: '+e.message});
 </script></body></html>
