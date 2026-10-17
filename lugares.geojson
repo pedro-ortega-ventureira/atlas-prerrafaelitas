@@ -204,6 +204,46 @@
         "place": "Londres",
         "reference": "https://emuseum.delart.org/people/1102/marie-spartali-stillman"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0589,
+          42.3601
+        ]
+      },
+      "properties": {
+        "title": "Trayectoria estadounidense de Marie Spartali Stillman",
+        "artist": "Marie Spartali Stillman",
+        "year": "1873–1903",
+        "description": "Su obra se exhibió en Boston en 1873. Continuó presentando pinturas en Estados Unidos y mantuvo relaciones con coleccionistas y galerías.",
+        "location_note": "Boston: Exposiciones documentadas desde 1873 y actividad expositiva posterior. No implica residencia permanente.",
+        "image": "",
+        "source": "",
+        "reference": "https://emuseum.delart.org/people/objects/1102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "title": "Trayectoria estadounidense de Marie Spartali Stillman",
+        "artist": "Marie Spartali Stillman",
+        "year": "1903–1909",
+        "description": "Su obra se expuso en Nueva York, donde desarrolló contactos con galerías y compradores; su actividad estadounidense fue parte de una carrera transatlántica.",
+        "location_note": "Nueva York: Exposiciones y mercado artístico documentados, especialmente en los primeros años del siglo XX. No implica residencia permanente.",
+        "image": "",
+        "source": "",
+        "reference": "https://emuseum.delart.org/people/objects/1102"
+      }
     }
   ]
 }
