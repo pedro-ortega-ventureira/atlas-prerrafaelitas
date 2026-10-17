@@ -66,19 +66,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1276,
-          51.5072
+          11.2558,
+          43.7696
         ]
       },
       "properties": {
         "title": "Lux in Tenebris",
         "artist": "Evelyn De Morgan",
         "year": "1895",
-        "description": "La figura femenina luminosa permite explorar los intereses espirituales y alegóricos de Evelyn De Morgan. La ciudad se relaciona con su trayectoria, no con un escenario representado.",
-        "location_note": "Londres: vínculo biográfico general; lugar de ejecución pendiente de confirmar.",
+        "description": "De Morgan pasó temporadas en Italia y estudió la pintura florentina, en especial Botticelli. Este punto recoge una influencia artística documentada, no el escenario de la alegoría.",
+        "location_note": "Florencia: estancia formativa y estudio del Renacimiento; no lugar demostrado de ejecución de Lux in Tenebris.",
         "image": "",
         "source": "",
-        "place": "Londres"
+        "place": "Londres",
+        "reference": "https://www.artbiogs.co.uk/1/artists/de-morgan-evelyn"
       }
     },
     {
@@ -146,19 +147,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1276,
-          51.5072
+          11.2558,
+          43.7696
         ]
       },
       "properties": {
         "title": "La infancia de santa Cecilia",
         "artist": "Marie Spartali Stillman",
         "year": "1883",
-        "description": "La obra reelabora un asunto hagiográfico. El lugar representado pertenece al relato de santa Cecilia y no debe confundirse con los espacios vitales de la pintora.",
-        "location_note": "Londres: asociación biográfica provisional, no localización de la escena.",
+        "description": "Spartali Stillman se instaló en Florencia en 1878 y mantuvo allí un estudio. La ciudad fue esencial para su trayectoria artística y sus conexiones culturales internacionales.",
+        "location_note": "Florencia: residencia y estudio de la artista entre 1878 y 1883. No se afirma que esta obra se ejecutara allí.",
         "image": "",
         "source": "",
-        "place": "Londres"
+        "place": "Londres",
+        "reference": "https://www.english-heritage.org.uk/visit/blue-plaques/marie-spartali-stillman/"
       }
     },
     {
@@ -166,19 +168,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1276,
-          51.5072
+          -5.478,
+          50.211
         ]
       },
       "properties": {
         "title": "Santa Isabel de Hungría hilando para los pobres",
         "artist": "Marianne Stokes",
         "year": "1895",
-        "description": "La figura de santa Isabel permite examinar las relaciones entre iconografía religiosa, trabajo femenino y compromiso social. Hungría pertenece al asunto iconográfico, no necesariamente al lugar de realización.",
-        "location_note": "Londres: referencia provisional a la red artística británica; vínculo específico pendiente de verificar.",
+        "description": "Marianne Stokes vivió y trabajó en St Ives, en Cornualles, vinculada a su comunidad artística. La escena de santa Isabel de Hungría pertenece a la iconografía religiosa, no a esta localidad.",
+        "location_note": "St Ives: residencia y ámbito de trabajo de la artista; no escenario representado en la obra.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marianne_Stokes_St_Elizabeth_of_Hungary_Spinning_for_the_Poor.jpg?width=640",
         "source": "https://commons.wikimedia.org/wiki/File:Marianne_Stokes_St_Elizabeth_of_Hungary_Spinning_for_the_Poor.jpg",
-        "place": "Londres"
+        "place": "Londres",
+        "reference": "https://www.artbiogs.co.uk/1/artists/stokes-marianne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "title": "La infancia de santa Cecilia",
+        "artist": "Marie Spartali Stillman",
+        "year": "1883",
+        "description": "La familia Stillman mantuvo vínculos de residencia con Roma durante la etapa en que William Stillman trabajó como corresponsal. Se trata de una estación del itinerario de la artista, no de la ubicación de la escena de santa Cecilia.",
+        "location_note": "Roma: etapa de residencia y viajes, sin atribución del lugar de ejecución de esta obra.",
+        "image": "",
+        "source": "",
+        "place": "Londres",
+        "reference": "https://emuseum.delart.org/people/1102/marie-spartali-stillman"
       }
     }
   ]
