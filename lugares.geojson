@@ -151,19 +151,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
+          -0.1276,
+          51.5072
         ]
       },
       "properties": {
-        "place": "Madrid — Fundación MAPFRE",
+        "place": "Londres, Reino Unido",
         "title": "El Gótico de Dios",
         "artist": "Anna Blunden",
         "year": "c. 1858",
-        "description": "Óleo sobre lienzo, 43 × 53,6 cm. La colección Benjamin Kracauer no aporta ciudad en el dossier; se geolocaliza en la sede de la exposición actual.",
+        "description": "Anna Blunden nació en Londres, regresó allí para formarse en Leigh’s School of Art y expuso El Gótico de Dios en la Royal Academy en 1859.",
         "location_note": "Madrid — Fundación MAPFRE",
-        "relation_type": "history",
-        "relation_label": "Exposición actual",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista",
         "artwork_title": "El Gótico de Dios (c. 1858)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-06.jpg",
@@ -172,7 +172,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "Colección Benjamin Kracauer",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-06-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-06-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-06-600.jpg",
+        "geolocation_source": "https://www.martinbeislyfineart.com/past-sales-landscape/anna-blunden-gods-gothic"
       }
     },
     {
@@ -238,19 +239,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
+          0.5217,
+          51.2787
         ]
       },
       "properties": {
-        "place": "Madrid — Fundación MAPFRE",
+        "place": "Kent, Reino Unido",
         "title": "El pajar",
         "artist": "Rosa Brett",
         "year": "1858",
-        "description": "Óleo sobre lienzo, 26,5 × 34,7 cm. El dossier solo indica colección particular; se geolocaliza en la sede de la exposición actual.",
+        "description": "Rosa Brett pasó su juventud y desarrolló buena parte de su práctica artística en Kent; su paisaje rural fue una fuente importante de inspiración. El pajar fue expuesto en la Royal Academy en 1858.",
         "location_note": "Madrid — Fundación MAPFRE",
-        "relation_type": "history",
-        "relation_label": "Exposición actual",
+        "relation_type": "artist",
+        "relation_label": "Trayectoria de la artista",
         "artwork_title": "El pajar (1858)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-09.jpg",
@@ -259,7 +260,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "Colección particular",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-09-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-09-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-09-600.jpg",
+        "geolocation_source": "https://www.cittametropolitana.bo.it/pariopportunita/Elenco_in_ordine_alfabetico/Brett_Rosa"
       }
     },
     {
@@ -354,19 +356,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
+          -0.1395,
+          51.509
         ]
       },
       "properties": {
-        "place": "Madrid — Fundación MAPFRE",
+        "place": "Londres, Reino Unido",
         "title": "En la ópera",
         "artist": "Cathy Brown",
         "year": "1869",
-        "description": "Acuarela y lápiz sobre papel, 42 × 35,6 cm. El dossier solo indica colección particular; se geolocaliza en la sede de la exposición actual.",
+        "description": "Catherine Madox Brown, conocida como Cathy, nació y trabajó en Londres. En la ópera está fechada en 1869 y fue expuesta ese mismo año en la Royal Academy; una antigua etiqueta de la obra documenta además la dirección 37 Fitzroy Square.",
         "location_note": "Madrid — Fundación MAPFRE",
-        "relation_type": "history",
-        "relation_label": "Exposición actual",
+        "relation_type": "creation",
+        "relation_label": "Creación y exposición",
         "artwork_title": "En la ópera (1869)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-13.jpg",
@@ -375,7 +377,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "Colección particular",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-13-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-13-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-13-600.jpg",
+        "geolocation_source": "https://www.christies.com/lot/lot-2911610"
       }
     },
     {
@@ -644,19 +647,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
+          -3.1883,
+          55.9533
         ]
       },
       "properties": {
-        "place": "Madrid — Fundación MAPFRE",
+        "place": "Edimburgo, Reino Unido",
         "title": "El testamento del amor",
         "artist": "Phoebe Traquair",
         "year": "1898",
-        "description": "Óleo sobre lienzo, 53,34 × 35,56 cm. El dossier solo indica colección particular; se geolocaliza en la sede de la exposición actual.",
+        "description": "Phoebe Anna Traquair se instaló en Edimburgo en 1874 y allí desarrolló su principal carrera artística. El testamento del amor está fechado en 1898, en plena etapa de madurez de su actividad en Escocia.",
         "location_note": "Madrid — Fundación MAPFRE",
-        "relation_type": "history",
-        "relation_label": "Exposición actual",
+        "relation_type": "creation",
+        "relation_label": "Trayectoria y contexto de creación",
         "artwork_title": "El testamento del amor (1898)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23.jpg",
@@ -665,7 +668,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "Colección particular",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-23-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-23-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-23-600.jpg",
+        "geolocation_source": "https://www.christies.com/lot/lot-2697796"
       }
     },
     {
