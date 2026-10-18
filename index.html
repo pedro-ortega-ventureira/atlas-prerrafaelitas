@@ -80,7 +80,7 @@ for(const f of data.features||[]){const key=f.geometry.coordinates.join(',');if(
 const layer=L.layerGroup().addTo(map);
 for(const works of grouped.values()){
 const coords=works[0].geometry.coordinates;
-const kind=works[0].properties.relation_type||'history';const hasMapfre=works.some(f=>f.properties?.mapfre_feature);const marker=L.circleMarker([coords[1],coords[0]],{radius:hasMapfre?11:(works.length>1?12:8),color:hasMapfre?'#183f5c':'#ffffff',weight:hasMapfre?3:2,fillColor:hasMapfre?'#ffffff':(palette[kind]||palette.history),fillOpacity:.96}).addTo(layer);if(hasMapfre)marker.bindTooltip('Obra de la exposición Fundación MAPFRE',{direction:'top'});
+const kind=works[0].properties.relation_type||'history';const hasMapfre=works.some(f=>f.properties?.mapfre_feature);const marker=L.circleMarker([coords[1],coords[0]],{radius:works.length>1?7:6,color:'#fffaf3',weight:2,fillColor:'#a4553f',fillOpacity:.96}).addTo(layer);if(hasMapfre)marker.bindTooltip('Obra de la exposición Fundación MAPFRE',{direction:'top'});
 const cards=works.map(f=>{const p=f.properties||{};
 const mapfre=p.mapfre_feature?'<p class="mapfre-badge"><strong>Fundación MAPFRE · imagen de prensa nº '+safe(p.mapfre_press_number)+'</strong></p>':'';
 const gallery=p.mapfre_works?.length?'<div class="mapfre-gallery">'+p.mapfre_works.map(w=>'<figure><img loading="lazy" src="'+safe(w.image_url)+'" alt="'+safe(w.title)+'" onerror="this.closest(\'figure\').remove()"><figcaption><em>'+safe(w.title)+'</em> ('+safe(w.year)+') · Fundación MAPFRE, imagen de prensa nº '+safe(w.press_number)+'</figcaption></figure>').join('')+'</div>':'';
