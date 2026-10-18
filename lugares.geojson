@@ -210,19 +210,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1276,
-          51.5072
+          -1.2635,
+          51.7548
         ]
       },
       "properties": {
-        "place": "Londres — The Maas Gallery",
+        "place": "Oxford — North House, Clarendon Press",
         "title": "La celosa Jessie",
         "artist": "Emily Hunt",
         "year": "1861",
-        "description": "Acuarela con lápiz y gouache sobre papel, 25,5 × 35,5 cm. Conservada en The Maas Gallery, Londres.",
+        "description": "La obra representa a Jessie, el collie de Thomas Combe, en el jardín de su residencia North House, dentro del recinto de Oxford University Press.",
         "location_note": "Londres — The Maas Gallery",
-        "relation_type": "history",
-        "relation_label": "Lugar de conservación",
+        "relation_type": "represented",
+        "relation_label": "Lugar representado",
         "artwork_title": "La celosa Jessie (1861)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-08.jpg",
@@ -231,7 +231,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "The Maas Gallery, Londres · © The Maas Gallery",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-08-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-08-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-08-600.jpg",
+        "geolocation_source": "https://www.maasgallery.co.uk/artworks/categories/8/9724-emily-hunt-1836-1922-jealous-jessie/"
       }
     },
     {
@@ -269,19 +270,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1722,
-          51.4966
+          -1.51541,
+          50.67242
         ]
       },
       "properties": {
-        "place": "Londres — Victoria and Albert Museum",
+        "place": "Freshwater — Dimbola Lodge, isla de Wight",
         "title": "Alethea",
         "artist": "Julia Margaret Cameron",
         "year": "1872",
-        "description": "Copia al carbón a partir de un negativo de reproducción, 43 × 34,2 cm. Colección de la Royal Photographic Society en el V&A.",
+        "description": "Julia Margaret Cameron vivió y trabajó en Dimbola Lodge, Freshwater, entre 1860 y 1875. La fotografía Alethea está fechada en 1872, dentro de esta etapa de producción en la isla de Wight.",
         "location_note": "Londres — Victoria and Albert Museum",
-        "relation_type": "history",
-        "relation_label": "Lugar de conservación",
+        "relation_type": "creation",
+        "relation_label": "Lugar de creación",
         "artwork_title": "Alethea (1872)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10.jpg",
@@ -290,7 +291,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "Victoria and Albert Museum, Londres · RPS.719-2017 · © Victoria and Albert Museum, London",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-10-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-10-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-10-600.jpg",
+        "geolocation_source": "https://historicengland.org.uk/listing/the-list/list-entry/1096166"
       }
     },
     {
@@ -298,19 +300,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5466,
-          39.7447
+          12.4964,
+          41.9028
         ]
       },
       "properties": {
-        "place": "Wilmington — Delaware Art Museum",
+        "place": "Roma, Italia",
         "title": "Beatriz",
         "artist": "Marie Spartali Stillman",
         "year": "1896",
-        "description": "Acuarela y gouache sobre papel montado sobre tabla, 57,6 × 43,2 cm. Conservada en el Delaware Art Museum.",
+        "description": "Beatriz está fechada en 1896, durante la etapa romana de Marie Spartali Stillman. Roma se emplea como contexto de creación probable, no como lugar exacto demostrado de ejecución.",
         "location_note": "Wilmington — Delaware Art Museum",
-        "relation_type": "history",
-        "relation_label": "Lugar de conservación",
+        "relation_type": "creation_probable",
+        "relation_label": "Contexto de creación probable",
         "artwork_title": "Beatriz (1896)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11.jpg",
@@ -319,7 +321,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "Delaware Art Museum · Donación de la esposa de Walter Reinsel, 1971 · 1971-10",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-11-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-11-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-11-600.jpg",
+        "geolocation_source": "https://emuseum.delart.org/objects/3425/beatrice"
       }
     },
     {
@@ -473,19 +476,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1395,
-          51.509
+          -0.157,
+          51.53
         ]
       },
       "properties": {
-        "place": "Londres — Royal Academy of Arts",
+        "place": "Townshend House — Regent's Park, Londres",
         "title": "El salón, Townshend House",
         "artist": "Anna Alma-Tadema",
         "year": "10 de septiembre de 1885",
-        "description": "Acuarela, lápiz, pluma y tinta sobre cartulina, 27,2 × 34 cm. Conservada en la Royal Academy of Arts, Londres.",
+        "description": "La acuarela representa el salón de Townshend House, residencia de la familia Alma-Tadema en Regent's Park, y está fechada el 10 de septiembre de 1885.",
         "location_note": "Londres — Royal Academy of Arts",
-        "relation_type": "history",
-        "relation_label": "Lugar de conservación",
+        "relation_type": "represented",
+        "relation_label": "Lugar representado",
         "artwork_title": "El salón, Townshend House (10 de septiembre de 1885)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-17.jpg",
@@ -494,7 +497,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "Royal Academy of Arts, Londres · 08/3530 · © Photo: Royal Academy of Arts, London",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-17-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-17-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-17-600.jpg",
+        "geolocation_source": "https://artsandculture.google.com/asset/the-drawing-room-townshend-house-anna-alma-tadema/pgHz-AvZPJgPEg"
       }
     },
     {
@@ -706,19 +710,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2304,
-          53.4591
+          -0.183,
+          51.413
         ]
       },
       "properties": {
-        "place": "Manchester — The Whitworth",
+        "place": "Merton Abbey Works — Merton",
         "title": "Ehret die Frauen (Honrad a las mujeres)",
         "artist": "Marianne Stokes",
         "year": "1912",
-        "description": "Tapiz de lana y seda sobre algodón, 174,9 × 253,6 cm. Realizado por Morris & Co.",
+        "description": "El tapiz diseñado por Marianne Stokes fue ejecutado por Morris & Co.; Merton Abbey Works era el centro de producción de tapices y tejidos de la firma.",
         "location_note": "Manchester — The Whitworth",
-        "relation_type": "history",
-        "relation_label": "Lugar de conservación",
+        "relation_type": "execution",
+        "relation_label": "Lugar de ejecución",
         "artwork_title": "Ehret die Frauen (Honrad a las mujeres) (1912)",
         "artwork_relation": "Obra incluida en «Prerrafaelismo. Itinerarios femeninos (1850–1914)», Fundación MAPFRE.",
         "image": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-25.jpg",
@@ -727,7 +731,8 @@
         "mapfre_feature": true,
         "mapfre_credit": "The Whitworth, The University of Manchester · T.1975.124.1",
         "image_large": "https://raw.githubusercontent.com/pedro-ortega-ventureira/atlas-prerrafaelitas/main/mapfre-25-600.jpg",
-        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-25-600.jpg"
+        "image_large_page": "https://github.com/pedro-ortega-ventureira/atlas-prerrafaelitas/blob/main/mapfre-25-600.jpg",
+        "geolocation_source": "https://mertonpriory.org/wp-content/uploads/2018/08/description.pdf"
       }
     }
   ]
